@@ -434,7 +434,7 @@
     "summary": "Anomaly detection involves identifying [[standardised/Outliers|Outliers]]. Detecting these anomalies is crucial for maintaining [[data integrity]] and improving model performance. Methods for Detecting Anomalies In [[ML_Tools]] see:..."
   },
   "apache_airflow": {
-    "title": "What is Apache Airflow?",
+    "title": "Apache Airflow",
     "tags": [
       "data_orchestration",
       "software",
@@ -477,7 +477,7 @@
     "summary": "Apache Kafka is an open-source distributed event streaming platform used for building real-time data pipelines and data streaming applications. It is designed to handle high-throughput,..."
   },
   "apache_spark": {
-    "title": "What is Apache Spark?",
+    "title": "Apache Spark",
     "tags": [
       "software"
     ],
@@ -640,7 +640,7 @@
     "summary": ""
   },
   "backpropagation": {
-    "title": "Backpropagation in Neural Networks",
+    "title": "Backpropagation",
     "tags": [
       "deep_learning",
       "ml_optimisation",
@@ -943,7 +943,7 @@
     "summary": "The concept of Big Data revolves around datasets that are too large or complex to be managed using traditional data processing techniques. It\u2019s characterized by..."
   },
   "big_o_notation": {
-    "title": "What is the Big-O Notation?",
+    "title": "Big O Notation",
     "tags": [
       "math"
     ],
@@ -1052,7 +1052,7 @@
     "summary": "A boxplot, also known as a whisker plot, is a standardized way of displaying the distribution of data based on a five-number summary: minimum, first..."
   },
   "business_intelligence": {
-    "title": "What is Business Intelligence",
+    "title": "business intelligence",
     "tags": [
       "business"
     ],
@@ -1336,7 +1336,7 @@
     "summary": "https://github.com/rhyslwells/ML_Tools/blob/main/Explorations/Utilities/Click_Implementation.py This script implements a command-line interface (CLI) tool using Python's click library. The CLI allows users to interact with a JSON file, enabling them..."
   },
   "cloud_providers": {
-    "title": "What are the top Cloud Providers?",
+    "title": "Cloud Providers",
     "tags": [
       "data_storage"
     ],
@@ -2038,7 +2038,7 @@
     "summary": "[[Current challenges within the energy sector]] related to reinforcement learning and that can be progressed with recent technological advances"
   },
   "dagster": {
-    "title": "What is Dagster?",
+    "title": "dagster",
     "tags": [
       "data_orchestration"
     ],
@@ -2355,7 +2355,7 @@
     "summary": "The definition from the Fundamentals of Data Engineering, as it\u2019s one of the most recent and complete: Data engineering is the development, implementation, and maintenance..."
   },
   "data_governance": {
-    "title": "What is Data Governance?",
+    "title": "Data Governance",
     "tags": [
       "business",
       "#data_governance"
@@ -2375,7 +2375,7 @@
     "summary": "Data governance is a collection of processes, roles, policies, standards, and metrics that ensure the effective and efficient use of information in enabling an organization..."
   },
   "data_hierarchy_of_needs": {
-    "title": "The Data Hierarchy of Needs",
+    "title": "Data Hierarchy of Needs",
     "tags": [
       "data_management"
     ],
@@ -2414,7 +2414,7 @@
     "summary": "Data ingestion is the process of collecting and importing raw data from various sources ([[Database]], [[API]], [[Data Streaming]] services) into a system for processing and..."
   },
   "data_integration": {
-    "title": "What is Data Integration?",
+    "title": "Data Integration",
     "tags": [
       "data_storage",
       "data_orchestration"
@@ -2456,7 +2456,7 @@
     "summary": "Data integrity refers to the - accuracy, - consistency, and - reliability of data throughout its lifecycle. It ensures that data remains ==unaltered== and ==trustworthy==,..."
   },
   "data_lake": {
-    "title": "What is a Data Lake?",
+    "title": "Data Lake",
     "tags": [
       "data_storage"
     ],
@@ -2475,7 +2475,7 @@
     "summary": "A Data Lake is a storage system with vast amounts of [[unstructured data]] and [[structured data]], stored as-is, without a specific purpose in mind, that..."
   },
   "data_lakehouse": {
-    "title": "What is a Data Lakehouse?",
+    "title": "Data Lakehouse",
     "tags": [
       "data_storage"
     ],
@@ -2532,7 +2532,7 @@
     "summary": "This is the comprehensive process of managing data from its initial ingestion to its final use in downstream processes. Used for maintaining [[data integrity]], optimizing..."
   },
   "data_lineage": {
-    "title": "What is Data Lineage?",
+    "title": "data lineage",
     "tags": [
       "data_management"
     ],
@@ -2548,7 +2548,7 @@
     "summary": "Data lineage uncovers the [[Data Lifecycle Management]] life cycle of data. It aims to show the complete data flow from start to finish. Data lineage..."
   },
   "data_literacy": {
-    "title": "What is Data Literacy?",
+    "title": "data literacy",
     "tags": [
       "#business"
     ],
@@ -2623,7 +2623,7 @@
     "summary": "Data modelling is the process of creating a visual representation of a system's data and the relationships between different data elements. This helps in organizing..."
   },
   "data_observability": {
-    "title": "What is Data Observability?",
+    "title": "Data Observability",
     "tags": [
       "#data_orchestration",
       "data_management"
@@ -2730,7 +2730,7 @@
     "summary": "Data principles are essential for ensuring that data is managed, used, and maintained effectively and ethically. [[Data Quality]] Ensure data is accurate, complete, reliable, and..."
   },
   "data_product": {
-    "title": "What is a Data Product?",
+    "title": "Data Product",
     "tags": [
       "data_management",
       "business",
@@ -2746,7 +2746,7 @@
     "summary": "A data product is \"a product that facilitates an end goal through data\". Delivering the final output, which could be dashboards, reports, or machine learning..."
   },
   "data_quality": {
-    "title": "What is Data Quality?",
+    "title": "Data Quality",
     "tags": [
       "#data_quality"
     ],
@@ -3020,7 +3020,7 @@
     "summary": "Using [[pandas]] we can do the following: [[Merge]] [[Concatenate]] [[Joining Datasets]] [[Pandas join vs merge]] [[Multi-level index]] [[Aggregation]] [[Pandas Stack]] [[Crosstab]] A summary of transformations..."
   },
   "data_transformation": {
-    "title": "What is data transformation?",
+    "title": "Data Transformation",
     "tags": [
       "data_cleaning",
       "data_transformation"
@@ -3113,7 +3113,7 @@
     "summary": "Data visualization involves presenting data in a visual format, enabling stakeholders to quickly grasp insights and make informed decisions. Effective visualization tools include dashboards and..."
   },
   "data_warehouse": {
-    "title": "What is a Data Warehouse?",
+    "title": "Data Warehouse",
     "tags": [
       "database",
       "data_storage"
@@ -3226,7 +3226,7 @@
     "summary": "A [[Database Schema|schema]] is the structure that defines how data is organized in a [[Database]], used in [[Data Management]]. It specifies the tables, columns, relationships,..."
   },
   "database_storage": {
-    "title": "What are Data Processing Techniques (row-based, columnar, vectorized)?",
+    "title": "Database Storage",
     "tags": [
       "database",
       "data_cleaning"
@@ -3494,7 +3494,7 @@
     "summary": "A Decision Tree is a type of [[Supervised Learning]] algorithm used to predict a target variable based on input features. It involves splitting data into..."
   },
   "declarative": {
-    "title": "What is declarative?",
+    "title": "declarative",
     "tags": [
       "data_orchestration",
       "field"
@@ -3523,7 +3523,7 @@
     "summary": "Watch Overview Video TensorFlow Focus: TensorFlow is a comprehensive open-source platform for machine learning. It provides a flexible and comprehensive ecosystem of tools, libraries, and..."
   },
   "deep_learning": {
-    "title": "Deep Learning Overview",
+    "title": "Deep Learning",
     "tags": [
       "deep_learning"
     ],
@@ -3658,7 +3658,7 @@
     "summary": "In [[Binary Classification]] problems, a threshold value is used to convert predicted probabilities into discrete class labels. The choice of threshold significantly impacts the model's..."
   },
   "devops": {
-    "title": "What is DevOps?",
+    "title": "DevOps",
     "tags": [
       "data_orchestration"
     ],
@@ -4421,7 +4421,7 @@
     "summary": "Link [Github](https://github.com/syalanuj/youtube/blob/main/de_fundamentals_python/etl.py 1. Extract using a API Get data via api or download. 2. Transform Put into a pandas df. 3. Load Save df as..."
   },
   "etl_vs_elt": {
-    "title": "ETL vs. ELT",
+    "title": "ETL vs ELT",
     "tags": [
       "data_transformation"
     ],
@@ -4437,7 +4437,7 @@
     "summary": "ETL (Extract, Transform, and Load) and ELT (Extract, Load, and Transform) are two paradigms for moving data from one system to another. ==ELT is most..."
   },
   "etl": {
-    "title": "What is ETL?",
+    "title": "ETL",
     "tags": [
       "data_transformation"
     ],
@@ -5161,7 +5161,7 @@
     "summary": "A foreign key is a field in one table that uniquely identifies a row in another table, linking to the primary key of that table...."
   },
   "forward_propagation": {
-    "title": "Forward Propagation in Neural Networks",
+    "title": "Forward Propagation",
     "tags": [
       "deep_learning",
       "statistics"
@@ -5182,7 +5182,7 @@
     "summary": "[!Summary] Forward propagation is the process by which input data moves through a neural network, layer by layer, to produce an output. During this process,..."
   },
   "functional_programming": {
-    "title": "What is Functional Programming?",
+    "title": "functional programming",
     "tags": [
       "software"
     ],
@@ -5577,7 +5577,7 @@
     "summary": "can understand the Grammar as a method for acceptable sentences."
   },
   "granularity": {
-    "title": "What is Granularity",
+    "title": "granularity",
     "tags": [
       "database",
       "data_modeling"
@@ -6296,7 +6296,7 @@
     "summary": "See https://youtu.be/StSAJIZuqws?t=655 ```R ) Monte Carlo Simulation: Multicollinearity & Harm results = expand_grid( rho = seq(0, 0.95, 0.05), rep = 1:1000 ) %>% mutate( sim..."
   },
   "imperative": {
-    "title": "What is imperative?",
+    "title": "imperative",
     "tags": [
       "data_orchestration"
     ],
@@ -6329,7 +6329,7 @@
     "summary": "Handling ambiguous entities in Named Entity Recognition (NER) can be quite challenging. Here are some strategies that can be employed: Contextual Analysis: Utilize the surrounding..."
   },
   "in-memory_format": {
-    "title": "What is an In-Memory Format?",
+    "title": "in-memory format",
     "tags": [
       "data_storage"
     ],
@@ -6431,7 +6431,7 @@
     "summary": ""
   },
   "interpretability": {
-    "title": "Interpretability",
+    "title": "interpretability",
     "tags": [
       "drafting",
       "model_explainability"
@@ -6529,7 +6529,7 @@
     "summary": "Printing without code : [[Documentation & Meetings]]/ [[nbconvert]] https://stackoverflow.com/questions/49907455/hide-code-when-exporting-jupyter-notebook-to-html jupyter nbconvert stock_analysis.ipynb --no-input --to pdf jupyter nbconvert --to html --no-input --no-prompt phi_analysis.ipynb --clear -output jupyter..."
   },
   "isolated_forest": {
-    "title": "Isolation Forest and Its Use in Anomaly Detection",
+    "title": "Isolated Forest",
     "tags": [
       "anomaly_detection",
       "data_quality"
@@ -6585,7 +6585,7 @@
     "summary": ""
   },
   "jinja_template": {
-    "title": "What is a Jinja Template?",
+    "title": "jinja template",
     "tags": [
       "software"
     ],
@@ -6840,7 +6840,7 @@
     "summary": "Knowledge work refers to tasks that primarily involve handling or using information and require cognitive skills rather than manual labor. It is characterized by problem-solving,..."
   },
   "kubernetes": {
-    "title": "What is Kubernetes?",
+    "title": "kubernetes",
     "tags": [
       "data_orchestration",
       "software"
@@ -6882,7 +6882,7 @@
     "summary": "Possible missing labelling or bias in the data, or under-represented data. Construction of the data set comes from the group collecting it. Examples: - ImageNet"
   },
   "lambda_architecture": {
-    "title": "What is a Lambda Architecture?",
+    "title": "lambda architecture",
     "tags": [
       "data_modeling",
       "data_orchestration"
@@ -7499,7 +7499,7 @@
     "summary": "Machine Learning Operations (MLOps) is a set of practices and tools designed to streamline the entire lifecycle of machine learning models, from development to deployment..."
   },
   "machine_learning": {
-    "title": "What is Machine Learning?",
+    "title": "Machine Learning",
     "tags": [
       "field"
     ],
@@ -7570,7 +7570,7 @@
     "summary": "Many-to-Many Relationships Occurs when multiple records in one table are associated with multiple records in another table. Need to use a junction table (also known..."
   },
   "map_reduce": {
-    "title": "What is MapReduce?",
+    "title": "map reduce",
     "tags": [
       "data_cleaning"
     ],
@@ -7615,7 +7615,7 @@
     "summary": "Markov Decision Process ([[Markov Decision Processes|MDP]]) is a formal framework for decision-making where outcomes depend solely on the current state (Markov property). \\ architecture [[Markov..."
   },
   "master_data_management": {
-    "title": "What is Master Data Management (MDM)?",
+    "title": "master data management",
     "tags": [
       "data_storage",
       "data_governance",
@@ -7810,7 +7810,7 @@
     "summary": "Trimming Description: Removing data points identified as outliers based on criteria such as being beyond a certain number of standard deviations from the mean or..."
   },
   "metric": {
-    "title": "What is a Metric?",
+    "title": "Metric",
     "tags": [
       "business"
     ],
@@ -8414,7 +8414,7 @@
     "summary": "Can values for X,y be categroical ? [[Encoding Categorical Variables]] BernoulliNB() Why Naive Bayes?;;Order doesn't matter, features are independent. Treated it as a [[Bag of..."
   },
   "named_entity_recognition": {
-    "title": "Technical Analysis of Named Entity Recognition",
+    "title": "Named Entity Recognition",
     "tags": [
       "NLP",
       "model_algorithm"
@@ -8596,7 +8596,7 @@
     "summary": "N-grams are used in NLP that allow for the analysis of text data by breaking it down into smaller, manageable sequences. An N-gram is a..."
   },
   "nlp": {
-    "title": "Natural Language Processing",
+    "title": "NLP",
     "tags": [
       "NLP"
     ],
@@ -8741,7 +8741,7 @@
     "summary": "Standardizing data distributions for consistency. In ML: - [[Z-Normalisation]] - [[Standardisation]] - [[Normalisation vs Standardisation]] - [[Batch Normalisation]] In [[Data Engineering]]: - [[Normalisation of data]]..."
   },
   "normalised_schema": {
-    "title": "What is Normalization?",
+    "title": "Normalised Schema",
     "tags": [
       "database"
     ],
@@ -8797,7 +8797,7 @@
     "summary": "A .npy file is a binary file format specifically designed to store a single NumPy array. NumPy, or Numerical Python, is a powerful library in..."
   },
   "olap_(online_analytical_processing)": {
-    "title": "What is OLAP (Online Analytical Processing)?",
+    "title": "OLAP (online analytical processing)",
     "tags": [
       "database",
       "data_cleaning"
@@ -9023,7 +9023,7 @@
     "summary": "[[Neural network]] Universal approximation theory"
   },
   "overfitting": {
-    "title": "Overfitting in Machine Learning",
+    "title": "Overfitting",
     "tags": [
       "model_architecture"
     ],
@@ -9408,7 +9408,7 @@
     "summary": "Efficiency & Performance - [[Cost-efficiency]]: Ensuring that the solutions used are cost-effective and provide value for money. - [[Speed]]: The ability to process and analyze..."
   },
   "performance_drift": {
-    "title": "Performance Drift in Machine Learning",
+    "title": "Performance Drift",
     "tags": [
       "deleted",
       "data_quality",
@@ -9457,7 +9457,7 @@
     "summary": "Modern version of setting up dependencies instead of requirements.txt ([[dependency manager]]) Primary Purpose: Poetry is a [[dependency manager]] and packaging tool for Python projects. Main..."
   },
   "policy": {
-    "title": "What is a policy in RL",
+    "title": "Policy",
     "tags": [
       "question",
       "#question"
@@ -9875,7 +9875,7 @@
     "summary": "Tl;dr 1-liner if the context of the change is long Context A few sentences on the high level context for the change. Link to relevant..."
   },
   "push-down": {
-    "title": "What is a Push-Down?",
+    "title": "Push-Down",
     "tags": [
       "database"
     ],
@@ -10494,7 +10494,7 @@
     "summary": "These metrics provide various ways to evaluate the performance of regression models. Evaluating Regression Models These metric provide: Comprehensive Evaluation: Each metric provides a different..."
   },
   "regression": {
-    "title": "Regression Analysis and its Applications",
+    "title": "Regression",
     "tags": [
       "statistics",
       "regressor"
@@ -10568,7 +10568,7 @@
     "summary": "Tree models, such as Random Forests and Gradient Boosting, can also be regularized, although they don\u2019t use L1 or L2 regularization directly. Instead, they are..."
   },
   "regularisation": {
-    "title": "Regularization in Machine Learning",
+    "title": "Regularisation",
     "tags": [
       "deleted",
       "ml_process",
@@ -10731,7 +10731,7 @@
     "summary": "REST API REST stands for Representational State Transfer. It is a ==standardized== software architecture style used for API communication between a client and a server...."
   },
   "reverse_etl": {
-    "title": "What is Reverse ETL?",
+    "title": "reverse etl",
     "tags": [
       "data_transformation"
     ],
@@ -10931,7 +10931,7 @@
     "summary": "Similar to [[Cron jobs ]]in [[Unix]] Using schtasks (Command-Line) Windows provides schtasks, a command-line tool to schedule tasks. Example Commands Run a Python script every..."
   },
   "schema_evolution": {
-    "title": "What is Schema Evolution?",
+    "title": "Schema Evolution",
     "tags": [
       "database"
     ],
@@ -11024,7 +11024,7 @@
     "summary": ""
   },
   "semi-structured_data": {
-    "title": "What is semi-structured data?",
+    "title": "semi-structured data",
     "tags": [
       "data_modeling",
       "data_storage"
@@ -11163,7 +11163,7 @@
     "summary": "Terms of interest: Also called Scikit-learn. train_test_split X and y are separate things (y is the target variable/column) and X is multiple is columns used..."
   },
   "slowly_changing_dimension": {
-    "title": "What is Slowly Changing Dimension?",
+    "title": "Slowly Changing Dimension",
     "tags": [
       "database"
     ],
@@ -11271,7 +11271,7 @@
     "summary": "Snowflake Architecture: Cloud-Native: Snowflake is a fully managed, cloud-native data warehousing service. It operates entirely on cloud platforms like AWS, Azure, and Google [[Cloud]]. Separation..."
   },
   "soft_deletion": {
-    "title": "What is a Soft Delete?",
+    "title": "Soft Deletion",
     "tags": [
       "data_integrity",
       "data_management"
@@ -11452,7 +11452,7 @@
     "summary": "SQL Window Functions are a feature in SQL that allow you to perform calculations across a set of table rows that are somehow related to..."
   },
   "sql": {
-    "title": "What is SQL?",
+    "title": "SQL",
     "tags": [
       "software",
       "database",
@@ -11720,7 +11720,7 @@
     "summary": "[[Gradient Descent]]"
   },
   "storage_layer_object_store": {
-    "title": "What is a Storage Layer / Object Store?",
+    "title": "storage layer object store",
     "tags": [
       "data_storage"
     ],
@@ -11756,7 +11756,7 @@
     "summary": "A strongly typed programming language is one where ==types== are strictly enforced. This means that once a variable is assigned a type, it cannot be..."
   },
   "structured_data": {
-    "title": "What is structured data?",
+    "title": "structured data",
     "tags": [
       "data_modeling",
       "data_storage"
@@ -13267,7 +13267,7 @@
     "summary": "XGBoost (eXtreme Gradient Boosting) is a highly efficient and flexible implementation of [[Gradient Boosting]] that is widely used for its accuracy and performance in machine..."
   },
   "yaml": {
-    "title": "What is YAML?",
+    "title": "yaml",
     "tags": [
       "software"
     ],
