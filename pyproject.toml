@@ -24,7 +24,8 @@ dependencies = [
     "python-louvain (>=0.16,<0.17)",
     "pydot (>=3.0.4,<4.0.0)",
     "plotly (>=6.0.1,<7.0.0)",
-    "nbformat (>=5.10.4,<6.0.0)"
+    "nbformat (>=5.10.4,<6.0.0)",
+    "dash-cytoscape (==0.2.0)"
 ]
 
 
