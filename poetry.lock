@@ -490,6 +490,17 @@ files = [
 dash = "*"
 
 [[package]]
+name = "e"
+version = "1.4.5"
+description = "Evaluate and display command line expressions with\n        python -me expr"
+optional = false
+python-versions = "*"
+groups = ["main"]
+files = [
+    {file = "e-1.4.5.tar.gz", hash = "sha256:1ce64149fd260237e8f53d5b4863466875594e77341ec47d340c0d2c6d3b5942"},
+]
+
+[[package]]
 name = "faiss-cpu"
 version = "1.10.0"
 description = "A library for efficient similarity search and clustering of dense vectors."
@@ -3735,4 +3746,4 @@ type = ["pytest-mypy"]
 [metadata]
 lock-version = "2.1"
 python-versions = ">=3.12,<3.13"
-content-hash = "4dc5f0f11c8c34e46574f4b285e3725d928fafcea10a906fe9127cf436c14c30"
+content-hash = "521f297b5bbee17e19b8074e440b6b3b21fa574d557c1aca6a46ddc37f2f0ac5"

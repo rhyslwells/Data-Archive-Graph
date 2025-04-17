@@ -2,6 +2,7 @@
 name = "data-archive-graph"
 version = "0.1.0"
 description = "Graph analysis of the data archive"
+packages = [{ include = "graphing", from = "src" }]
 authors = [
     {name = "Rhys Wells",email = "rhyslwells@outlook.com"}
 ]
