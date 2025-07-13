@@ -1,4 +1,4 @@
-I am investigating a folder of documenets. I have created a JSON file where each item is the metadata for a document. I use this JSON to generate a graph.
+I am investigating a folder of documents. I have created a JSON file where each item is the metadata for a document. I use this JSON to generate a graph.
 
 I am interested in exploring the graph relationships between the notes.
 
