@@ -1,0 +1,121 @@
+
+
+------------------
+------------------
+How do you articulate what you want...- building up the query
+
+Smart Connections - Explore this first.
+
+## What the Assistant Actually Does
+
+At its core, the assistant is a **context-scoped retrieval system**. It behaves like a thinking partner that has read all your notes — but only surfaces what’s relevant to the problem you're currently exploring.
+
+
+
+* **Retrieval-Augmented Dialogue (RAG)**
+  It uses embedding-based retrieval to surface your most relevant notes or excerpts based on the question or comment.
+
+* **Theme Detection and Evolution**
+  Over time, the assistant notices recurring tags, concepts, and linked clusters. It can summarise or consolidate them into themes you can explore or refactor.
+
+* **Reflective Prompting** - types of prompts
+  It prompts with queries like:
+
+  > “You’ve written about ‘bounded rationality’ in three places. Want a synthesis?”
+  > “Your note on ‘operational triage’ overlaps with this theme on decision fatigue. Want to connect them?”
+
+* **Memory Extension**
+  When you forget where something lives, the assistant helps retrieve it by idea, phrase, or related concept
+
+Quantifiys the number of related chunks to a query..
+
+Voice to text input for query using whispher?
+
+1. **You define context**:
+   “Use notes tagged `#decision_theory` and `#systems_thinking`.”
+
+Question formats: **You ask questions**:
+   “What did I write about Gigerenzer’s distinction between risk and uncertainty?”
+   “Have I ever related bounded rationality to infrastructure planning?”
+
+
+Explore FAISS
+
+Below is the same feature set rewritten as a **to-do checklist** using `- [ ]` formatting, suitable for Obsidian or GitHub task tracking. Descriptions remain minimal and implementation-oriented.
+
+---
+
+## Core Principle
+
+* [ ] Define system as context-scoped retrieval and reflection over a markdown archive
+
+---
+
+## Core Retrieval
+
+### #retrieval #rag
+
+* [ ] Implement contextual semantic search constrained by tags, folders, or projects
+* [ ] Support semantic recall when original phrasing is forgotten
+* [ ] Build chunk-aware indexing for notes and sections
+* [ ] Create scoped vector stores for active themes or projects
+
+---
+
+## Connections & Structure
+
+### #classifier #ml
+
+* [ ] Detect recurring concepts and cluster them into latent themes
+* [ ] Track how themes evolve over time across notes
+
+### #ml #graph
+
+* [ ] Surface semantically related but unlinked notes
+* [ ] Analyse link density to find over- and under-connected notes
+
+---
+
+## Reflection & Prompting
+
+### #evaluation
+
+* [ ] Generate reflective prompts for synthesis and consolidation
+* [ ] Detect overlapping notes and suggest merge or refactor
+* [ ] Identify thematic gaps where synthesis notes are missing
+
+---
+
+## Interaction & Workflow
+
+### #ml_process
+
+* [ ] Build explicit context declaration (tags, folders, time range)
+* [ ] Enable iterative query-as-exploration workflows
+* [ ] Reinforce retrieval ranking based on user interactions
+
+---
+
+## Archive Intelligence
+
+### #classifier
+
+* [ ] Classify note types (fleeting, permanent, literature, synthesis)
+
+### #ml_process
+
+* [ ] Enable temporal recall based on writing period or project phase
+* [ ] Detect stale notes or themes that are no longer revisited
+
+---
+
+## Output & Synthesis
+
+### #ml
+
+* [ ] Generate on-demand thematic syntheses
+* [ ] Preserve citations and backlinks in generated summaries
+
+### #evaluation
+
+* [ ] Suggest note refactors (split, merge, promote) based on structure and reuse
