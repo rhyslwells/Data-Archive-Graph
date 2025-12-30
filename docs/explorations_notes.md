@@ -7,7 +7,6 @@
 
 Use Notebook LLM to query NLP documents.
 
-
 ## explore_vault_index.ipynb
 
 
