@@ -6,4 +6,4 @@ Part 2: LLM interaction with notes.
 
 # Notes
 
-See Graph database pdf in Data Archive
+steamlit application .
