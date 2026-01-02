@@ -1,0 +1,1056 @@
+note_id,filename,word_count,line_count,section_count,max_heading_depth,list_item_count,code_block_count,code_block_line_count,image_count,table_count,quote_block_count,tag_count,has_code,has_images,has_table,has_quotes,has_lists,is_empty,has_math
+bag_of_words.py,Bag_of_Words.py,90,5,1,3,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+bandit_example_output,Bandit example output,36,127,2,2,0,3,134,0,0,0,1,True,False,False,False,False,False,False
+addressing_multicollinearity.py,Addressing_Multicollinearity.py,3,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+bandit_example_fixed.py,Bandit_Example_Fixed.py,4,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+click_implementation.py,Click_Implementation.py,161,44,5,3,0,6,15,0,0,0,1,True,False,False,False,False,False,False
+cross_entropy_single.py,Cross_Entropy_Single.py,287,24,2,3,6,0,0,0,0,0,1,False,False,False,False,True,False,True
+cross_entropy.py,Cross_Entropy.py,487,34,4,3,3,0,0,0,0,0,1,False,False,False,False,True,False,False
+comparing_ensembles.py,Comparing_Ensembles.py,82,8,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+distribution_analysis.py,Distribution_Analysis.py,262,20,0,0,5,0,0,0,0,0,1,False,False,False,False,True,False,False
+debugging.py,Debugging.py,135,8,1,3,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+factor_analysis.py,Factor_Analysis.py,520,43,8,4,9,0,0,0,0,0,1,False,False,False,False,True,False,False
+fastapi_example.py,FastAPI_Example.py,850,259,23,3,33,26,101,0,24,0,1,True,False,True,False,True,False,False
+forecasting_autoarima.py,Forecasting_AutoArima.py,52,6,2,2,3,0,0,0,0,0,1,False,False,False,False,True,False,False
+forecasting_baseline.py,Forecasting_Baseline.py,116,7,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+forecasting_exponential_smoothing.py,Forecasting_Exponential_Smoothing.py,105,5,1,2,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+gaussian_mixture_model_implementation.py,Gaussian_Mixture_Model_Implementation.py,34,4,0,0,2,0,0,0,0,0,1,False,False,False,False,True,False,False
+imbalanced_datasets_smote.py,Imbalanced_Datasets_SMOTE.py,413,32,4,4,4,0,0,0,43,0,1,False,False,True,False,True,False,False
+handling_missing_data_basic.ipynb,Handling_Missing_Data_Basic.ipynb,5,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+handling_missing_data.ipynb,Handling_Missing_Data.ipynb,4,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+k_means.py,K_Means.py,180,19,1,2,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+pca_analysis.ipynb,PCA_Analysis.ipynb,172,21,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+one_hot_encoding.py,One_hot_encoding.py,159,10,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+momentum.py,Momentum.py,2,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+pca_based_anomaly_detection.py,PCA_Based_Anomaly_Detection.py,5,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+pandas_stack.py,Pandas_Stack.py,3,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+pycaret_anomaly.ipynb,Pycaret_Anomaly.ipynb,3,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+pandas_common.py,Pandas_Common.py,3,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+pycaret_example.py,Pycaret_Example.py,3,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+pydantic_more.py,Pydantic_More.py,72,9,1,3,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+pydantic.py,Pydantic.py,112,8,1,3,5,0,0,0,0,0,1,False,False,False,False,True,False,False
+roc_curve.py,ROC_Curve.py,463,51,7,3,16,0,0,0,0,0,1,False,False,False,False,True,False,False
+regression_logistic_metrics.ipynb,Regression_Logistic_Metrics.ipynb,5,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+ts_anomaly_detection.py,TS_Anomaly_Detection.py,4,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+svm_example.py,SVM_Example.py,321,33,7,4,15,0,0,0,0,0,1,False,False,False,False,True,False,False
+testing_pytest.py,Testing_Pytest.py,143,5,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+testing_unittest.py,Testing_unittest.py,361,26,3,3,3,0,0,0,0,0,1,False,False,False,False,True,False,False
+vector_embedding.py,Vector_Embedding.py,139,16,2,3,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+word2vec.py,Word2Vec.py,225,21,3,4,2,0,0,0,0,0,1,False,False,False,False,True,False,False
+wikipedia_api.py,Wikipedia_API.py,3,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+transfer_learning.py,transfer_learning.py,65,3,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+attention_is_all_you_need,Attention Is All You Need,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+bert_pretraining_of_deep_bidirectional_transformers_for_language_understanding,BERT Pretraining of Deep Bidirectional Transformers for Language Understanding,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+algorithms,Algorithms,347,30,8,3,6,0,0,0,0,0,1,False,False,False,False,True,False,False
+bm25_(best_match_25),BM25 (Best Match 25),262,30,3,3,14,0,0,0,2,0,0,False,False,True,False,True,False,True
+big_o_notation,Big O Notation,85,7,0,0,3,0,0,0,0,0,1,False,False,False,False,True,False,False
+computer_science,Computer Science,1,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+checksum,Checksum,410,31,1,3,3,0,0,0,0,0,2,False,False,False,False,True,False,True
+concurrency,Concurrency,99,10,0,0,5,0,0,0,0,1,1,False,False,False,True,True,False,False
+directed_acyclic_graph_(dag),Directed Acyclic Graph (DAG),94,4,0,0,0,0,0,1,0,0,2,False,True,False,False,False,False,False
+flask,Flask,37,9,2,2,0,0,0,1,0,0,1,False,True,False,False,False,False,False
+convex_optimisation,Convex Optimisation,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,True,False
+generators_in_python,Generators in Python,104,23,1,4,10,1,8,0,0,0,2,True,False,False,False,True,False,False
+heap_data_structure,Heap Data Structure,206,35,6,3,9,1,9,0,5,0,1,True,False,True,False,True,False,True
+heap_memory,Heap Memory,122,14,0,0,0,1,2,0,7,0,1,True,False,True,False,False,False,False
+hash,Hash,323,17,3,3,2,0,0,0,0,0,1,False,False,False,False,True,False,False
+how_to_search_within_a_graph,How to search within a graph,98,12,2,4,0,0,0,1,0,0,2,False,True,False,False,False,False,False
+immutable_vs_mutable,Immutable vs mutable,6,12,0,0,0,1,11,0,0,0,2,True,False,False,False,False,True,False
+java_vs_javascript,Java vs JavaScript,277,17,2,3,2,0,0,0,24,0,1,False,False,True,False,True,False,False
+java,Java,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+javascript,JavaScript,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+knowledge_graph,Knowledge Graph,292,16,2,2,5,0,0,1,0,0,2,False,True,False,False,True,False,False
+langchain,Langchain,207,22,0,0,17,0,0,0,0,0,2,False,False,False,False,True,False,False
+machine_learning_algorithms,Machine Learning Algorithms,252,33,5,5,14,0,0,0,0,0,2,False,False,False,False,True,False,False
+monte_carlo_simulation,Monte Carlo Simulation,70,10,0,0,1,0,0,0,0,0,2,False,False,False,False,True,False,False
+multiprocessing_vs_multithreading,Multiprocessing vs Multithreading,262,23,0,0,1,0,0,0,26,0,1,False,False,True,False,True,False,False
+multithreading,Multithreading,0,0,0,0,0,0,0,0,0,0,2,False,False,False,False,False,True,False
+node.js,Node.JS,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+numpy,Numpy,31,3,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,True
+processes_vs_threads,Processes vs Threads,321,26,1,2,4,1,3,0,22,0,1,True,False,True,False,True,False,False
+pygraphviz,PyGraphviz,77,14,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+ranking_models,Ranking models,10,6,0,0,5,0,0,0,0,0,0,False,False,False,False,True,False,False
+quicksort,QuickSort,49,34,2,2,0,1,32,0,0,0,1,True,False,False,False,False,False,False
+recursive_algorithm,Recursive Algorithm,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+science_portal,Science Portal,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,True,False
+times_series_python_packages,Times Series Python Packages,1,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+strongly_vs_weakly_typed_language,Strongly vs Weakly typed language,227,27,4,3,3,2,15,0,0,0,1,True,False,False,False,True,False,False
+csv_module,csv module,244,48,6,3,7,2,21,0,26,0,1,True,False,True,False,True,False,False
+garbage_collector,garbage collector,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+neomodel,neomodel,436,57,6,3,10,4,33,0,0,0,2,True,False,False,False,True,False,False
+programming_languages,programming languages,3,3,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+altair,Altair,310,51,9,3,19,2,15,0,0,0,1,True,False,False,False,True,False,False
+boxplot,Boxplot,143,43,10,2,12,2,31,0,0,0,3,True,False,False,False,True,False,False
+binder,Binder,7,3,0,0,0,0,0,0,0,0,2,False,False,False,False,False,True,False
+dash,Dash,139,13,0,0,2,0,0,0,0,0,3,False,False,False,False,True,False,False
+dashboards,Dashboards,26,9,0,0,8,0,0,0,0,0,3,False,False,False,False,True,False,False
+dashboarding,Dashboarding,2,2,0,0,0,0,0,0,0,0,2,False,False,False,False,False,True,False
+data_analysis,Data Analysis,206,12,2,3,6,0,0,0,0,0,1,False,False,False,False,True,False,False
+data_analysis_portal,Data Analysis Portal,4,2,0,0,2,0,0,0,0,0,2,False,False,False,False,True,True,False
+data_distribution,Data Distribution,48,7,0,0,4,0,0,0,0,0,3,False,False,False,False,True,False,False
+data_analyst,Data Analyst,174,15,1,3,13,0,0,0,0,0,1,False,False,False,False,True,False,False
+data_mining,Data Mining,179,19,2,3,4,0,0,0,0,0,1,False,False,False,False,True,False,False
+data_product,Data Product,67,5,0,0,0,0,0,0,0,0,3,False,False,False,False,False,False,False
+data_reduction,Data Reduction,42,4,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+data_visualisation,Data Visualisation,54,16,0,0,12,0,0,0,0,0,1,False,False,False,False,True,False,False
+eda,EDA,355,53,7,2,34,0,0,0,0,0,3,False,False,False,False,True,False,False
+duckdb,DuckDB,200,20,2,3,9,0,0,0,0,0,2,False,False,False,False,True,False,False
+er_diagrams,ER Diagrams,83,32,1,4,11,1,12,0,3,0,2,True,False,True,False,True,False,False
+heatmap,Heatmap,182,9,1,3,3,0,0,0,0,0,3,False,False,False,False,True,False,False
+label_encoding,Label encoding,93,5,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+linear_discriminant_analysis,Linear Discriminant Analysis,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+log_transformation,Log transformation,252,14,3,3,10,0,0,0,0,0,2,False,False,False,False,True,False,False
+mariadb_vs_mysql,MariaDB vs MySQL,255,20,2,3,2,0,0,0,20,0,3,False,False,True,False,True,False,False
+looker_studio,Looker Studio,40,8,2,3,2,0,0,0,0,0,3,False,False,False,False,True,False,False
+melt,Melt,274,62,5,3,7,4,34,0,0,0,1,True,False,False,False,True,False,False
+multiple_correspondence_analysis,Multiple Correspondence Analysis,6,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,True,False
+multivariate_analysis,Multivariate Analysis,17,3,0,0,2,0,0,0,0,0,0,False,False,False,False,True,False,False
+olap,OLAP,205,20,3,3,14,0,0,0,0,0,3,False,False,False,False,True,False,False
+page_rank,Page Rank,167,29,4,3,6,1,11,0,0,1,2,True,False,False,True,True,False,True
+parquet,Parquet,421,51,8,3,8,1,10,0,0,0,1,True,False,False,False,True,False,False
+powerbi,PowerBI,9,2,0,0,0,0,0,0,0,0,2,False,False,False,False,False,True,False
+plotly,Plotly,3,1,0,0,0,0,0,0,0,0,2,False,False,False,False,False,True,False
+preprocessing_text_classification,Preprocessing Text Classification,161,25,8,4,13,0,0,0,0,0,4,False,False,False,False,True,False,False
+preprocessing,Preprocessing,190,16,2,3,5,0,0,0,0,0,5,False,False,False,False,True,False,False
+sql_window_functions,SQL Window functions,485,61,5,4,0,2,16,0,64,0,3,True,False,True,False,False,False,False
+seaborn,Seaborn,6,5,0,0,1,0,0,0,0,0,2,False,False,False,False,True,True,False
+tableau,Tableau,44,10,3,2,7,0,0,0,0,0,1,False,False,False,False,True,False,False
+altair_versus_seaborn,altair versus seaborn,296,46,7,3,8,2,19,0,28,0,1,True,False,True,False,True,False,False
+t-sne,t-SNE,309,48,10,3,9,1,31,1,0,0,1,True,True,False,False,True,False,False
+aws_lambda,AWS Lambda,316,15,0,0,4,0,0,0,0,0,0,False,False,False,False,True,False,False
+acid_transaction,ACID Transaction,174,6,1,3,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+ada_boosting,Ada boosting,469,25,7,3,7,0,0,0,0,0,1,False,False,False,False,True,False,False
+apache_iceberg,Apache Iceberg,95,8,1,3,5,0,0,0,0,0,2,False,False,False,False,True,False,False
+adding_a_database_to_postgresql,Adding a database to PostgreSQL,69,31,6,3,0,2,22,0,0,0,2,True,False,False,False,False,False,False
+aggregation,Aggregation,19,4,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+attack_mitigation,Attack mitigation,83,11,2,3,3,0,0,0,0,0,1,False,False,False,False,True,False,False
+attack_types,Attack types,123,16,2,3,4,0,0,0,8,0,1,False,False,True,False,True,False,False
+benefits_of_data_transformation,Benefits of Data Transformation,32,5,1,2,4,0,0,0,0,0,1,False,False,False,False,True,False,False
+azure,Azure,16,1,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+big_data,Big Data,170,14,0,0,11,0,0,0,0,0,2,False,False,False,False,True,False,False
+bigquery,BigQuery,250,10,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+cuda,CUDA,105,8,1,2,0,0,0,0,8,0,1,False,False,True,False,False,False,False
+crud,CRUD,1,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+cassandra,Cassandra,66,9,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+cloud_providers,Cloud Providers,31,6,1,2,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+coaching_&_mentoring,Coaching & Mentoring,162,36,1,4,2,0,0,0,0,0,1,False,False,False,False,True,False,False
+columnar_storage,Columnar Storage,153,13,0,0,2,0,0,0,10,0,1,False,False,True,False,True,False,False
+command_prompt,Command Prompt,174,97,6,4,22,19,44,0,0,0,1,True,False,False,False,True,False,False
+common_table_expression,Common Table Expression,155,47,2,3,1,3,36,0,0,0,2,True,False,False,False,True,False,False
+components_of_the_database,Components of the database,11,2,0,0,0,0,0,1,0,0,1,False,True,False,False,False,False,False
+covering_index,Covering Index,8,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,True,False
+crosstab,Crosstab,28,29,2,1,1,3,22,0,0,0,1,True,False,False,False,True,False,False
+curse_of_dimensionality,Curse of dimensionality,378,14,2,3,8,0,0,0,0,0,1,False,False,False,False,True,False,False
+cypher,Cypher,561,147,20,2,34,12,34,0,54,0,2,True,False,True,False,True,False,False
+data_architect,Data Architect,17,3,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+data_architecture,Data Architecture,104,29,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+data_cleansing,Data Cleansing,57,11,0,0,7,0,0,0,0,0,3,False,False,False,False,True,False,False
+data_contract,Data Contract,177,20,1,3,2,0,0,1,0,0,1,False,True,False,False,True,False,False
+data_deployment,Data Deployment,143,17,0,0,12,0,0,0,0,0,0,False,False,False,False,True,False,False
+data_dictionary,Data Dictionary,10,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+data_drift,Data Drift,297,19,0,0,6,0,0,0,0,0,2,False,False,False,False,True,False,False
+data_engineering_portal,Data Engineering Portal,129,18,1,2,12,0,0,0,0,0,1,False,False,False,False,True,False,False
+data_engineering,Data Engineering,276,10,0,0,3,0,0,0,0,1,1,False,False,False,True,True,False,False
+data_engineering_tools,Data Engineering Tools,108,13,0,0,4,0,0,0,0,0,2,False,False,False,False,True,False,False
+data_evaluation,Data Evaluation,16,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+data_hierarchy_of_needs,Data Hierarchy of Needs,152,14,0,0,0,0,0,1,0,0,1,False,True,False,False,False,False,False
+data_integration,Data Integration,216,21,6,3,11,0,0,0,0,0,2,False,False,False,False,True,False,False
+data_integrity,Data Integrity,113,16,0,0,6,0,0,0,0,0,3,False,False,False,False,True,False,False
+data_lake,Data Lake,260,18,0,0,9,0,0,0,0,0,1,False,False,False,False,True,False,False
+data_lakehouse,Data Lakehouse,443,30,2,3,3,0,0,0,0,0,1,False,False,False,False,True,False,False
+data_leakage,Data Leakage,62,1,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+data_lifecycle_management,Data Lifecycle Management,85,11,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+data_management,Data Management,70,14,0,0,8,0,0,0,0,0,2,False,False,False,False,True,False,False
+data_modeling,Data Modeling,174,16,0,0,6,0,0,0,0,0,2,False,False,False,False,True,False,False
+data_observability,Data Observability,439,29,2,3,8,0,0,0,0,0,2,False,False,False,False,True,False,False
+data_principles,Data Principles,298,16,0,0,1,0,0,0,0,0,3,False,False,False,False,True,False,False
+data_quality,Data Quality,87,11,0,0,6,0,0,0,0,0,1,False,False,False,False,True,False,False
+data_security,Data Security,189,44,3,3,19,1,5,0,0,0,2,True,False,False,False,True,False,False
+data_selection,Data Selection,137,44,7,3,2,6,19,0,0,0,2,True,False,False,False,True,False,False
+data_sources,Data Sources,59,7,0,0,4,0,0,0,0,0,0,False,False,False,False,True,False,False
+data_storage,Data Storage,186,23,3,2,10,0,0,0,8,0,2,False,False,True,False,True,False,False
+data_transformation_in_data_engineering,Data Transformation in Data Engineering,62,6,0,0,4,0,0,0,0,0,1,False,False,False,False,True,False,False
+data_transformation_with_pandas,Data Transformation with Pandas,78,22,1,3,9,0,0,1,14,0,1,False,True,True,False,True,False,False
+data_transformation,Data Transformation,90,21,0,0,17,0,0,0,0,0,3,False,False,False,False,True,False,False
+data_validation,Data Validation,73,8,0,0,7,0,0,0,0,0,2,False,False,False,False,True,False,False
+data_virtualization,Data Virtualization,144,5,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+dataops,DataOps,10,4,0,0,4,0,0,0,0,0,0,False,False,False,False,True,False,False
+data_warehouse,Data Warehouse,162,15,3,5,2,0,0,0,0,0,2,False,False,False,False,True,False,False
+database_index,Database Index,309,28,3,2,6,2,4,0,0,0,2,True,False,False,False,True,False,False
+database_management_system_(dbms),Database Management System (DBMS),59,12,0,0,7,0,0,0,0,0,2,False,False,False,False,True,False,False
+database_schema,Database Schema,304,16,1,4,2,0,0,0,0,0,2,False,False,False,False,True,False,False
+database_storage,Database Storage,19,4,0,0,0,0,0,0,0,0,3,False,False,False,False,False,False,False
+database_techniques,Database Techniques,28,11,0,0,4,0,0,0,0,0,2,False,False,False,False,True,False,False
+database,Database,136,21,0,0,14,0,0,0,0,0,2,False,False,False,False,True,False,False
+digital_twin,Digital twin,965,57,5,3,0,0,0,0,0,1,2,False,False,False,True,False,False,False
+distributed_computing,Distributed Computing,405,22,6,4,9,0,0,0,0,0,2,False,False,False,False,True,False,False
+duckdb_in_python,DuckDB in python,115,44,11,3,2,3,37,0,0,0,2,True,False,False,False,True,False,False
+duckdb_vs_sqlite,DuckDB vs SQLite,434,25,7,3,14,0,0,0,0,0,3,False,False,False,False,True,False,False
+durability,Durability,83,3,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+elt,ELT,217,13,2,3,4,0,0,0,0,0,1,False,False,False,False,True,False,False
+etl_1,ETL 1,87,3,0,0,3,0,0,0,0,0,0,False,False,False,False,True,False,False
+etl_pipeline_example,ETL Pipeline Example,37,44,6,4,0,1,41,0,0,0,1,True,False,False,False,False,False,False
+etl_vs_elt,ETL vs ELT,244,14,1,2,4,0,0,2,0,0,1,False,True,False,False,True,False,False
+etl,ETL,299,23,5,5,7,0,0,0,0,0,1,False,False,False,False,True,False,False
+estimator,Estimator,16,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+etlt,EtLT,58,3,0,0,0,0,0,0,0,1,1,False,False,False,True,False,False,False
+event_driven_microservices,Event Driven Microservices,386,12,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+event-driven_architecture,Event-Driven Architecture,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+fabric,Fabric,227,18,4,2,13,0,0,0,0,0,1,False,False,False,False,True,False,False
+faker,Faker,14,5,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+file_management,File Management,32,6,0,0,3,0,0,0,0,0,1,False,False,False,False,True,False,False
+folder_tree_diagram,Folder Tree Diagram,25,8,1,2,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+foreign_key,Foreign Key,170,21,1,3,3,0,0,0,17,0,1,False,False,True,False,True,False,False
+github_actions,Github Actions,171,33,0,0,10,1,15,0,0,0,3,True,False,False,False,True,False,False
+google_sheet_pivots_table,Google Sheet Pivots Table,3,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+grain,Grain,38,3,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+graph_query_language,Graph Query Language,107,18,0,0,7,0,0,0,0,0,0,False,False,False,False,True,False,False
+groupby_vs_crosstab,Groupby vs Crosstab,125,15,1,3,3,0,0,0,0,0,1,False,False,False,False,True,False,False
+groupby,Groupby,39,21,3,3,2,2,11,1,0,0,1,True,True,False,False,True,False,False
+honkit,Honkit,9,3,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+how_is_schema_evolution_done_in_practice_with_sql,How is schema evolution done in practice with SQL,4,3,0,0,2,0,0,0,0,0,2,False,False,False,False,True,True,False
+hosting,Hosting,108,21,5,4,4,0,0,0,0,0,1,False,False,False,False,True,False,False
+how_to_normalise_a_merged_table,How to normalise a merged table,21,4,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+implementing_database_schema,Implementing Database Schema,215,69,4,3,9,6,42,0,0,0,2,True,False,False,False,True,False,False
+imputation_techniques,Imputation Techniques,378,85,12,5,7,5,55,0,0,0,1,True,False,False,False,True,False,False
+indexing_in_cypher,Indexing in cypher,160,28,4,2,7,2,7,0,10,0,1,True,False,True,False,True,False,False
+input_is_not_properly_sanitized,Input is Not Properly Sanitized,123,8,0,0,6,0,0,0,0,0,2,False,False,False,False,True,False,False
+joining_datasets,Joining Datasets,16,16,4,3,1,1,13,0,0,0,1,True,False,False,False,True,False,False
+junction_tables,Junction Tables,7,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+knime,KNIME,229,59,3,5,12,0,0,0,0,0,2,False,False,False,False,True,False,False
+many-to-many_relationships,Many-to-Many Relationships,271,44,2,3,0,2,29,0,0,0,2,True,False,False,False,False,False,False
+logical_model,Logical Model,38,8,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+mariadb,MariaDB,165,29,2,3,7,1,15,0,0,0,3,True,False,False,False,True,False,False
+merge,Merge,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+missing_data,Missing Data,227,30,0,0,22,0,0,0,0,0,1,False,False,False,False,True,False,False
+microsoft_access,Microsoft Access,154,27,3,3,4,0,0,0,0,0,2,False,False,False,False,True,False,False
+model_deployment,Model Deployment,133,22,3,2,7,1,3,0,0,0,1,True,False,False,False,True,False,False
+monolith_architecture,Monolith Architecture,293,8,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+multi-level_index,Multi-level index,208,35,0,0,18,1,7,0,0,0,1,True,False,False,False,True,False,False
+multiprocessing,Multiprocessing,297,74,13,3,15,4,40,0,0,0,1,True,False,False,False,True,False,False
+mysql,MySql,49,3,0,0,0,0,0,1,0,0,3,False,True,False,False,False,False,False
+nosql,NoSQL,120,19,3,4,13,0,0,0,0,0,1,False,False,False,False,True,False,False
+normalised_schema,Normalised Schema,262,16,2,2,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+oltp,OLTP,24,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+object_relational_mapper,Object Relational Mapper,1,1,0,0,0,0,0,0,0,0,2,False,False,False,False,False,True,False
+overfitting,Overfitting,318,33,0,0,4,0,0,0,0,0,1,False,False,False,False,True,False,True
+pandas_stack,Pandas Stack,263,59,5,4,8,2,36,0,0,0,1,True,False,False,False,True,False,False
+pandas_pivot_table,Pandas Pivot Table,15,9,0,0,2,1,3,0,0,0,2,True,False,False,False,True,False,False
+pandas_join_vs_merge,Pandas join vs merge,115,11,0,0,0,0,0,0,18,0,2,False,False,True,False,False,False,False
+pandas,Pandas,18,7,0,0,4,0,0,0,0,0,2,False,False,False,False,True,False,False
+pgadmin_permissions_on_windows,Pgadmin Permissions on Windows,97,13,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+physical_model,Physical Model,25,30,0,0,0,1,27,0,0,0,3,True,False,False,False,False,False,False
+pickle,Pickle,0,0,0,0,0,0,0,0,0,0,2,False,False,False,False,False,True,False
+poetry,Poetry,143,17,0,0,0,1,4,0,0,0,2,True,False,False,False,False,False,False
+polars,Polars,143,9,0,0,3,0,0,0,0,0,0,False,False,False,False,True,False,False
+postgresql,PostgreSQL,86,11,0,0,6,0,0,0,0,0,3,False,False,False,False,True,False,False
+postman,Postman,6,3,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+powershell,PowerShell,313,61,2,3,11,9,25,0,0,0,2,True,False,False,False,True,False,False
+prevention_is_better_than_the_cure,Prevention Is Better Than The Cure,313,23,6,3,4,0,0,0,0,0,1,False,False,False,False,True,False,False
+primary_key,Primary Key,84,5,0,0,3,0,0,0,0,0,1,False,False,False,False,True,False,False
+push-down,Push-Down,91,4,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+pydantic,Pydantic,639,62,7,4,9,1,7,0,0,0,3,True,False,False,False,True,False,False
+pyright_vs_pydantic,Pyright vs Pydantic,236,19,2,3,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+querying_time_series,Querying Time Series,114,22,0,0,5,1,5,0,0,0,0,True,False,False,False,True,False,False
+query_optimisation,Query Optimisation,133,16,3,3,8,0,0,0,0,0,2,False,False,False,False,True,False,False
+querying,Querying,96,22,0,0,15,0,0,0,0,0,3,False,False,False,False,True,False,False
+race_conditions,Race Conditions,0,0,0,0,0,0,0,0,0,0,2,False,False,False,False,False,True,False
+relational_database,Relational Database,5,2,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+relating_tables_together,Relating Tables Together,162,24,1,3,1,0,0,0,0,0,1,False,False,False,False,True,False,False
+row_parameters_in_sql,Row parameters in SQL,3,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,True,False
+row-based_storage,Row-based Storage,188,14,0,0,1,0,0,0,10,0,1,False,False,True,False,True,False,False
+sql_groupby,SQL Groupby,223,44,7,4,6,4,18,0,0,0,2,True,False,False,False,True,False,False
+smss,SMSS,4,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+sql_injection,SQL Injection,349,60,6,3,2,8,28,0,0,0,2,True,False,False,False,True,False,False
+sql_joins,SQL Joins,6,3,0,0,1,0,0,1,0,0,1,False,True,False,False,True,True,False
+sqlalchemy_vs._sqlite3,SQLAlchemy vs. sqlite3,447,57,10,3,22,0,0,0,48,0,3,False,False,True,False,True,False,False
+sql,SQL,84,13,2,3,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+sqlalchemy,SQLAlchemy,197,45,2,3,7,2,18,0,0,0,3,True,False,False,False,True,False,False
+sqlite_studio,SQLite Studio,7,1,0,0,0,0,0,0,0,0,3,False,False,False,False,False,True,False
+scalability,Scalability,210,14,4,3,5,0,0,0,0,0,1,False,False,False,False,True,False,False
+sqlite,SQLite,30,8,0,0,3,0,0,0,0,0,3,False,False,False,False,True,False,False
+scaling_server,Scaling Server,20,3,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+schema_evolution,Schema Evolution,78,7,1,3,2,0,0,0,0,0,1,False,False,False,False,True,False,False
+search,Search,174,24,1,2,2,0,0,0,0,0,3,False,False,False,False,True,False,False
+security_researcher,Security Researcher,26,5,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+security_mitigation,Security mitigation,63,9,2,3,1,0,0,0,0,0,1,False,False,False,False,True,False,False
+single_source_of_truth,Single Source of Truth,48,9,0,0,5,0,0,0,0,0,2,False,False,False,False,True,False,False
+sklearn_pipiline,Sklearn Pipiline,3,13,1,1,1,1,10,0,0,0,2,True,False,False,False,True,True,False
+slowly_changing_dimension,Slowly Changing Dimension,343,21,2,4,3,0,0,0,23,0,1,False,False,True,False,True,False,False
+snowflake_schema,Snowflake Schema,74,4,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+soft_deletion,Soft Deletion,438,49,9,4,5,6,12,0,0,0,2,True,False,False,False,True,False,False
+software_design_patterns,Software Design Patterns,334,213,21,4,3,9,159,0,1,0,3,True,False,True,False,True,False,False
+spreadsheets_vs_databases,Spreadsheets vs Databases,119,6,1,3,1,0,0,0,0,0,2,False,False,False,False,True,False,False
+star_schema,Star Schema,77,4,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+stored_procedures,Stored Procedures,318,80,2,3,2,10,41,0,0,0,2,True,False,False,False,True,False,False
+structuring_and_organizing_data,Structuring and organizing data,18,6,0,0,1,0,0,0,0,0,1,False,False,False,False,True,False,False
+transaction,Transaction,201,19,6,3,9,0,0,0,0,0,1,False,False,False,False,True,False,False
+turning_a_flat_file_into_a_database,Turning a flat file into a database,228,105,25,3,0,6,91,0,24,0,1,True,False,True,False,False,False,False
+types_of_database_schema,Types of Database Schema,180,12,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+unix,Unix,5,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+usability,Usability,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+vacuum,Vacuum,12,1,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+vector_database,Vector Database,420,29,6,3,14,0,0,0,0,0,1,False,False,False,False,True,False,False
+vectorized_engine,Vectorized Engine,61,2,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+view_use_case,View Use Case,273,47,6,3,3,2,17,0,0,0,3,True,False,False,False,True,False,False
+views,Views,288,29,1,2,8,0,0,0,0,0,1,False,False,False,False,True,False,False
+why_use_pyspark_in_databricks,Why Use PySpark in Databricks,37,5,0,0,4,0,0,0,0,0,0,False,False,False,False,True,False,False
+windows_subsystem_for_linux,Windows Subsystem for Linux,134,6,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+data_lineage,data lineage,51,3,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+dbt_1,dbt 1,156,37,0,0,2,0,0,0,0,0,0,False,False,False,False,True,False,False
+design_pattern,design pattern,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,True,False
+heterogeneous_features,heterogeneous features,365,24,7,3,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+in-memory_format,in-memory format,197,13,0,0,7,0,0,0,0,0,2,False,False,False,False,True,False,False
+incremental_synchronization,incremental synchronization,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+map_reduce,map reduce,417,21,2,3,5,0,0,0,0,0,1,False,False,False,False,True,False,False
+master_data_management,master data management,311,11,0,0,0,0,0,0,0,0,3,False,False,False,False,False,False,False
+neo4j,neo4j,61,11,0,0,5,0,0,0,0,0,1,False,False,False,False,True,False,False
+pd.grouper,pd.Grouper,105,18,3,3,10,1,2,0,0,0,1,True,False,False,False,True,False,False
+pgadmin,pgAdmin,173,28,3,4,9,0,0,1,0,0,1,False,True,False,False,True,False,False
+pyodbc,pyodbc,125,33,6,3,11,1,18,0,0,0,4,True,False,False,False,True,False,False
+reverse_etl,reverse etl,117,4,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+rollup,rollup,20,2,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+semantic_layer,semantic layer,472,31,3,3,7,0,0,0,0,0,2,False,False,False,False,True,False,False
+storage_layer_object_store,storage layer object store,60,5,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+structured_data,structured data,518,31,4,2,0,1,2,0,20,0,2,True,False,True,False,False,False,False
+unstructured_data,unstructured data,192,11,2,2,0,0,0,0,4,1,2,False,False,True,True,False,False,False
+acf_plots,ACF Plots,270,27,4,3,11,0,0,1,0,0,0,False,True,False,False,True,False,True
+adf_test,ADF Test,187,15,4,3,6,0,0,0,0,0,3,False,False,False,False,True,False,True
+ai,AI,6,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,True,False
+arima_vs_random_forest_in_time_series,ARIMA vs Random Forest in Time Series,223,11,0,0,0,0,0,0,18,0,2,False,False,True,False,False,False,False
+arima,ARIMA,492,52,8,4,22,0,0,0,0,0,3,False,False,False,False,True,False,True
+additive_vs_multiplicative_models_time_series,Additive vs Multiplicative Models Time Series,286,32,4,3,15,0,0,0,0,0,1,False,False,False,False,True,False,True
+agent_exploration,Agent Exploration,10,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+agentic_solutions,Agentic Solutions,268,37,7,3,6,0,0,0,0,0,1,False,False,False,False,True,False,False
+autocorrelation_vs_autoregression,Autocorrelation vs Autoregression,20,3,1,2,2,0,0,0,0,0,2,False,False,False,False,True,False,False
+autocorrelation,Autocorrelation,270,25,3,3,12,0,0,0,0,0,2,False,False,False,False,True,False,True
+autoregression,Autoregression,75,10,0,0,2,0,0,0,0,0,1,False,False,False,False,True,False,True
+baseline_forecast,Baseline Forecast,72,6,0,0,3,0,0,0,0,0,1,False,False,False,False,True,False,False
+basics_of_time_series,Basics of Time Series,100,18,0,0,7,0,0,0,0,0,0,False,False,False,False,True,False,False
+batch_gradient_descent,Batch gradient descent,101,13,3,4,7,0,0,0,0,0,0,False,False,False,False,True,False,False
+bellman_equations,Bellman Equations,264,16,0,0,0,0,0,0,3,0,2,False,False,True,False,False,False,True
+bias-variance_trade_off,Bias-Variance Trade Off,221,21,3,3,9,0,0,0,12,0,0,False,False,True,False,True,False,True
+capability,Capability,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+choosing_a_threshold,Choosing a Threshold,153,5,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+choosing_the_number_of_clusters,Choosing the Number of Clusters,103,3,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+clustermap,Clustermap,46,13,1,2,6,1,3,0,0,0,2,True,False,False,False,True,False,False
+correlated_time_series,Correlated Time Series,141,12,0,0,0,0,0,0,0,0,4,False,False,False,False,False,False,False
+covariance_structures,Covariance Structures,374,39,4,3,7,0,0,0,0,0,0,False,False,False,False,True,False,True
+cross_validation,Cross Validation,565,30,5,3,14,0,0,0,0,0,1,False,False,False,False,True,False,False
+ds_&_ml_portal,DS & ML Portal,152,74,9,3,62,0,0,0,0,0,1,False,False,False,False,True,False,False
+data_assessment,Data Assessment,55,8,0,0,5,0,0,0,0,0,1,False,False,False,False,True,False,False
+data_collection,Data Collection,20,3,0,0,1,0,0,0,0,0,1,False,False,False,False,True,False,False
+data_mining_-_crisp,Data Mining - CRISP,67,17,1,3,0,1,8,0,0,0,2,True,False,False,False,False,False,False
+data_preparation,Data Preparation,310,33,0,0,20,0,0,0,0,0,1,False,False,False,False,True,False,False
+data_science,Data Science,89,11,0,0,6,0,0,0,0,0,1,False,False,False,False,True,False,False
+data_scientist,Data Scientist,27,4,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+data_understanding,Data Understanding,137,17,0,0,13,0,0,0,0,0,0,False,False,False,False,True,False,False
+datasets,Datasets,210,17,5,2,10,0,0,0,0,0,1,False,False,False,False,True,False,False
+decomposition_in_time_series,Decomposition in Time Series,189,28,4,3,15,0,0,1,0,0,3,False,True,False,False,True,False,False
+differencing_in_time_series,Differencing in Time Series,153,17,1,3,5,0,0,0,0,0,1,False,False,False,False,True,False,False
+dynamic_time_warping,Dynamic Time Warping,435,43,5,3,15,0,0,1,6,0,5,False,True,True,False,True,False,True
+evaluating_time_series_forecasts,Evaluating Time Series Forecasts,383,25,4,2,12,0,0,0,0,0,3,False,False,False,False,True,False,False
+evolving_seasonality,Evolving Seasonality,7,2,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+f-statistic,F-statistic,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,True,False
+feature_engineering,Feature Engineering,217,20,0,0,11,0,0,1,0,0,2,False,True,False,False,True,False,False
+feature_scaling,Feature Scaling,381,33,5,3,4,1,3,1,0,0,2,True,True,False,False,True,False,True
+feature_selection_vs_feature_importance,Feature Selection vs Feature Importance,64,3,0,0,2,0,0,0,0,0,2,False,False,False,False,True,False,False
+forecasting_using_lags,Forecasting using Lags,278,22,3,3,11,0,0,0,0,0,1,False,False,False,False,True,False,True
+forecasting_with_autoregressive_(ar)_models,Forecasting with Autoregressive (AR) Models,150,18,0,0,0,0,0,0,0,0,4,False,False,False,False,False,False,True
+forward_propagation,Forward Propagation,317,32,0,0,0,0,0,0,0,24,2,False,False,False,True,False,False,True
+gaussian_mixture_models,Gaussian Mixture Models,277,24,5,2,10,0,0,1,1,0,1,False,True,True,False,True,False,True
+gitlab,Gitlab,26,3,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+gompertz_model,Gompertz Model,84,17,1,2,9,0,0,0,0,0,0,False,False,False,False,True,False,True
+good_enough_principle_in_data_projects,Good Enough Principle in Data Projects,227,34,0,0,26,0,0,0,0,0,0,False,False,False,False,True,False,False
+graphrag,GraphRAG,125,15,3,3,7,0,0,0,0,0,1,False,False,False,False,True,False,False
+handling_missing_data,Handling Missing Data,172,28,2,2,4,1,4,0,0,0,2,True,False,False,False,True,False,False
+holt-winters_(exponential_smoothing),Holt-Winters (Exponential Smoothing),360,47,5,3,21,0,0,0,0,1,5,False,False,False,True,True,False,True
+holt-winters_vs_arima,Holt-Winters vs ARIMA,532,22,1,1,3,0,0,0,22,1,5,False,False,True,True,True,False,False
+holt’s_linear_trend_model_(double_exponential_smoothing),Holt’s Linear Trend Model (Double Exponential Smoothing),102,9,0,0,5,0,0,0,0,0,3,False,False,False,False,True,False,True
+imbalanced_datasets,Imbalanced Datasets,369,18,5,3,5,0,0,0,0,0,4,False,False,False,False,True,False,False
+interpolation,Interpolation,237,10,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,True
+intervention_analysis,Intervention Analysis,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,True,False
+joining_time_series,Joining Time Series,107,12,0,0,8,0,0,0,0,0,1,False,False,False,False,True,False,False
+kernel_machines,Kernel Machines,57,3,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+kpss_test,KPSS Test,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,True,False
+lstm_in_time_series,LSTM in Time Series,35,8,0,0,1,0,0,0,0,0,0,False,False,False,False,True,False,False
+latency,Latency,2,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+mnist,MNIST,1,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+logistic_model_curve,Logistic Model Curve,81,17,1,2,9,0,0,0,0,0,0,False,False,False,False,True,False,True
+normalisation,Normalisation,34,12,0,0,8,0,0,0,0,0,1,False,False,False,False,True,False,False
+mean_absolute_percentage_error,Mean Absolute Percentage Error,190,13,1,3,4,0,0,0,1,0,0,False,False,True,False,True,False,True
+out-of-sample_rolling_forecast_evaluation,Out-of-sample rolling forecast evaluation,199,19,4,2,12,0,0,0,0,0,0,False,False,False,False,True,False,False
+pacf_plots,PACF Plots,236,21,3,3,10,0,0,2,0,0,0,False,True,False,False,True,False,True
+performance_dimensions,Performance Dimensions,203,24,0,0,18,0,0,0,0,0,2,False,False,False,False,True,False,False
+properties_of_time_series_models,Properties of Time Series Models,87,9,1,3,5,0,0,0,0,0,0,False,False,False,False,True,False,True
+prophet,Prophet,152,16,2,3,9,0,0,0,0,0,5,False,False,False,False,True,False,True
+random_forest_regression,Random Forest Regression,22,3,0,0,1,0,0,0,0,0,2,False,False,False,False,True,False,False
+residuals_analysis,Residuals Analysis,333,41,7,3,24,0,0,0,0,0,3,False,False,False,False,True,False,True
+rolling_mean_vs_cumulative_mean,Rolling Mean vs Cumulative Mean,207,36,3,3,7,2,7,0,12,0,3,True,False,True,False,True,False,False
+shapley_additive_explanations,SHapley Additive exPlanations,225,21,4,3,5,1,9,0,0,0,2,True,False,False,False,True,False,False
+smote_(synthetic_minority_over-sampling_technique),SMOTE (Synthetic Minority Over-sampling Technique),42,4,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+stl_decomposition,STL Decomposition,197,25,0,0,10,1,2,2,0,0,1,True,True,False,False,True,False,False
+scatter_plots,Scatter Plots,12,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+scientific_method,Scientific Method,329,31,8,3,23,0,0,0,0,0,1,False,False,False,False,True,False,False
+scipy,Scipy,32,3,1,2,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+seasonality_in_time_series,Seasonality in Time Series,118,13,1,4,0,0,0,0,0,0,1,False,False,False,False,False,False,True
+seasonal_naive_forecast,Seasonal Naive Forecast,20,2,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+shot_learning,Shot Learning,59,2,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+silhouette_analysis,Silhouette Analysis,351,27,3,3,2,0,0,2,0,0,2,False,True,False,False,True,False,True
+simple_exponential_smoothing_(ses),Simple Exponential Smoothing (SES),54,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,True
+sparsecategorialcrossentropy_or_categoricalcrossentropy,SparseCategorialCrossentropy or CategoricalCrossEntropy,264,15,4,3,10,0,0,0,0,0,2,False,False,False,False,True,False,False
+stacking,Stacking,23,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+stationary_time_series,Stationary Time Series,441,39,5,3,17,0,0,2,0,0,3,False,True,False,False,True,False,True
+time_series_forecasting,Time Series Forecasting,264,39,3,4,24,0,0,0,0,0,2,False,False,False,False,True,False,False
+time_series_forecasts_in_business,Time Series Forecasts in Business,103,12,0,0,3,0,0,0,0,0,2,False,False,False,False,True,False,False
+time_series_shocks,Time Series Shocks,7,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,True,False
+time_series_learning_resources,Time Series Learning Resources,45,7,3,3,4,0,0,0,0,0,0,False,False,False,False,True,False,False
+time_series,Time Series,121,23,0,0,18,0,0,0,0,0,5,False,False,False,False,True,False,False
+trends_in_time_series,Trends in Time Series,142,8,0,0,4,0,0,0,0,0,1,False,False,False,False,True,False,True
+how_do_you_do_the_data_selection,how do you do the data selection,24,2,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+pmdarima,pmdarima,9,2,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+sklearn_datasets,sklearn datasets,41,20,0,0,7,1,6,0,0,0,1,True,False,False,False,True,False,False
+stack_memory,stack memory,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+deep_learning,Deep Learning,175,15,0,0,4,0,0,0,0,0,1,False,False,False,False,True,False,False
+convolutional_neural_networks,Convolutional Neural Networks,146,11,0,0,3,0,0,2,0,0,1,False,True,False,False,True,False,False
+lstm,LSTM,669,67,8,3,0,1,20,1,0,18,2,True,True,False,True,False,False,True
+how_is_reinforcement_learning_being_combined_with_deep_learning,How is reinforcement learning being combined with deep learning,70,2,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+policy,Policy,399,28,2,3,4,0,0,0,11,0,0,False,False,True,False,True,False,False
+multi-agent_reinforcement_learning,Multi-Agent Reinforcement Learning,0,0,0,0,0,0,0,0,0,0,2,False,False,False,False,False,True,False
+sarsa,Sarsa,209,15,0,0,7,0,0,0,0,0,1,False,False,False,False,True,False,True
+relu,Relu,66,3,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+.md,.md,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,True,False
+ab_testing,AB testing,16,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+api,API,199,19,4,4,3,0,0,0,0,0,1,False,False,False,False,True,False,False
+api_driven_microservices,API Driven Microservices,317,11,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+alternatives_to_batch_processing,Alternatives to Batch Processing,231,9,1,3,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+amazon_s3,Amazon S3,325,18,1,2,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+apache_airflow,Apache Airflow,117,7,0,0,3,0,0,0,0,0,2,False,False,False,False,True,False,False
+apache_kafka,Apache Kafka,235,11,1,3,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+apache_spark,Apache Spark,79,3,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+bash,Bash,134,78,6,4,4,16,38,0,0,0,1,True,False,False,False,True,False,False
+batch_processing,Batch Processing,136,9,0,0,0,0,0,0,0,0,3,False,False,False,False,False,False,False
+batch_vs_powershell_scripts,Batch vs PowerShell scripts,306,25,0,0,3,0,0,0,23,0,2,False,False,True,False,True,False,False
+ci-cd,CI-CD,56,6,0,0,4,0,0,0,0,0,1,False,False,False,False,True,False,False
+"catalogs,_schemas,_and_tables_in_databricks","Catalogs, Schemas, and Tables in Databricks",219,51,4,3,15,4,10,0,10,0,5,True,False,True,False,True,False,False
+click,Click,185,134,13,3,0,11,103,0,0,0,2,True,False,False,False,False,False,False
+clustering_dashboard.py,Clustering_Dashboard.py,3,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+code_diagrams,Code Diagrams,67,14,0,0,6,0,0,0,0,0,2,False,False,False,False,True,False,False
+command_line,Command Line,37,5,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+continuous_delivery_-_deployment,Continuous Delivery - Deployment,78,10,0,0,2,0,0,0,0,0,1,False,False,False,False,True,False,False
+continuous_integration,Continuous Integration,24,3,0,0,1,0,0,0,0,0,1,False,False,False,False,True,False,False
+cron_jobs,Cron jobs,17,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+data_ingestion,Data Ingestion,230,40,2,2,17,1,13,0,0,0,2,True,False,False,False,True,False,False
+data_orchestration,Data Orchestration,226,11,1,2,0,1,4,0,0,0,1,True,False,False,False,False,False,False
+data_pipeline_to_data_products,Data Pipeline to Data Products,240,23,2,3,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+data_pipeline,Data Pipeline,158,23,3,4,1,0,0,0,0,0,2,False,False,False,False,True,False,False
+data_streaming,Data Streaming,71,8,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+databricks_&_dbt,Databricks & dbt,300,41,5,3,8,1,8,0,14,0,4,True,False,True,False,True,False,False
+databricks_vs_snowflake,Databricks vs Snowflake,362,14,0,0,2,0,0,0,22,0,1,False,False,True,False,True,False,False
+databricks,Databricks,371,38,6,3,14,0,0,0,1,0,5,False,False,True,False,True,False,False
+debugging,Debugging,425,24,3,4,7,0,0,0,0,0,2,False,False,False,False,True,False,False
+declarative_data_pipeline,Declarative Data Pipeline,497,20,5,3,8,0,0,0,0,0,2,False,False,False,False,True,False,False
+delta_tables_in_databricks,Delta Tables in Databricks,280,40,8,3,3,1,9,0,14,0,3,True,False,True,False,True,False,False
+devops,DevOps,101,12,0,0,5,0,0,0,0,0,1,False,False,False,False,True,False,False
+devops_portal,Devops Portal,17,19,0,0,9,1,5,0,0,0,1,True,False,False,False,True,False,False
+digital_transformation,Digital Transformation,611,61,10,3,44,0,0,0,0,0,2,False,False,False,False,True,False,False
+docker_image,Docker Image,448,39,2,3,4,5,10,0,0,0,1,True,False,False,False,True,False,False
+docker,Docker,49,11,0,0,4,0,0,0,0,0,2,False,False,False,False,True,False,False
+elastic_net,Elastic Net,82,12,2,4,0,1,6,0,1,0,1,True,False,True,False,False,False,True
+event_driven_events,Event Driven Events,28,5,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+environment_variables,Environment Variables,70,12,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+epub,Epub,244,21,3,3,6,0,0,0,12,0,1,False,False,True,False,True,False,False
+event_driven,Event Driven,239,17,2,3,7,0,0,0,0,0,1,False,False,False,False,True,False,False
+excel_vs_google_sheets,Excel vs Google Sheets,3,2,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+everything,Everything,39,8,1,2,1,0,0,0,0,0,1,False,False,False,False,True,False,False
+excel_pivot_table,Excel pivot table,0,0,0,0,0,0,0,0,0,0,2,False,False,False,False,False,True,False
+excel,Excel,214,19,0,0,13,0,0,0,0,0,3,False,False,False,False,True,False,False
+firebase,Firebase,14,3,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+fastapi,FastAPI,138,23,2,3,4,1,3,0,0,0,2,True,False,False,False,True,False,False
+gis,GIS,83,8,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+gpt,GPT,0,0,0,0,0,0,0,0,0,0,3,False,False,False,False,False,True,False
+git,Git,330,112,24,3,0,11,48,0,0,0,1,True,False,False,False,False,False,False
+github_gists,Github Gists,190,18,0,0,10,0,0,0,0,0,1,False,False,False,False,True,False,False
+github_actions,Github Actions,262,41,7,4,17,1,9,0,0,0,5,True,False,False,False,True,False,False
+global_interpreter_lock,Global Interpreter Lock,47,3,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+google_colab,Google Colab,0,0,0,0,0,0,0,0,0,0,3,False,False,False,False,False,True,False
+google_cloud_platform,Google Cloud Platform,221,29,9,3,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+google_my_maps_data_extraction,Google My Maps Data Extraction,173,49,4,3,8,2,26,0,0,0,1,True,False,False,False,True,False,False
+google_sheets,Google Sheets,53,17,0,0,13,0,0,0,0,0,2,False,False,False,False,True,False,True
+gradio,Gradio,127,10,1,3,3,0,0,0,0,0,2,False,False,False,False,True,False,False
+hadoop,Hadoop,275,16,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+grep,Grep,279,52,2,4,10,5,10,0,17,0,1,True,False,True,False,True,False,False
+hugging_face,Hugging Face,138,9,1,3,5,0,0,0,0,0,2,False,False,False,False,True,False,False
+json_to_sqlite,Json to SQLite,9,5,0,0,3,0,0,0,0,0,1,False,False,False,False,True,True,False
+json,Json,106,49,0,0,3,1,39,0,4,0,1,True,False,True,False,True,False,False
+justfile,Justfile,402,87,17,3,10,7,49,0,0,0,1,True,False,False,False,True,False,False
+load_balancing,Load Balancing,33,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+loading_google_sheets_into_databricks,Loading Google Sheets into Databricks,81,23,0,0,3,4,8,0,0,0,4,True,False,False,False,True,False,False
+maintainability,Maintainability,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+makefile,Makefile,494,50,13,3,8,1,33,0,0,0,1,True,False,False,False,True,False,True
+maintainable_code,Maintainable Code,14,4,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+master_observability_datadog,Master Observability Datadog,30,11,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+memory_caching,Memory Caching,17,2,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+memory,Memory,6,2,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+microsoft,Microsoft,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+mongodb,MongoDB,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+net,NET,0,0,0,0,0,0,0,0,0,0,2,False,False,False,False,False,True,False
+overwriting_and_refreshing_tables_in_databricks,Overwriting and Refreshing Tables in Databricks,44,15,0,0,3,2,5,0,0,0,3,True,False,False,False,True,False,False
+normalisation_of_text,Normalisation of Text,115,43,2,2,0,3,35,0,0,0,2,True,False,False,False,False,False,False
+pmml,PMML,131,15,4,4,10,0,0,0,0,0,1,False,False,False,False,True,False,False
+pandas_series_vs_dataframe,Pandas Series vs DataFrame,88,22,0,0,4,2,5,0,0,0,1,True,False,False,False,True,False,False
+powerquery,Powerquery,16,5,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+pandoc,Pandoc,0,0,0,0,0,0,0,0,0,0,2,False,False,False,False,False,True,False
+powershell_scripts,Powershell scripts,65,25,3,3,0,4,11,0,0,0,1,True,False,False,False,False,False,True
+powershell_versus_command_prompt,Powershell versus Command Prompt,120,11,1,3,1,0,0,0,0,0,2,False,False,False,False,True,False,False
+powershell_vs_bash,Powershell vs Bash,190,11,2,3,8,0,0,0,0,0,1,False,False,False,False,True,False,False
+publish_and_subscribe,Publish and Subscribe,430,26,5,3,11,0,0,0,0,0,2,False,False,False,False,True,False,False
+pyspark,PySpark,324,57,5,3,13,2,8,0,12,1,2,True,False,True,True,True,False,False
+python,Python,10,4,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+quartz,Quartz,39,7,0,0,4,0,0,0,0,0,1,False,False,False,False,True,False,False
+pytest,Pytest,80,14,3,4,6,0,0,0,0,0,3,False,False,False,False,True,False,False
+rest_api,REST API,184,37,1,4,3,0,0,0,0,0,1,False,False,False,False,True,False,False
+random_access_memory,Random Access Memory,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+registering_a_scheduled_task,Registering a Scheduled Task,91,24,4,4,0,1,14,0,0,0,1,True,False,False,False,False,False,False
+react,React,133,14,4,3,5,0,0,0,0,0,1,False,False,False,False,True,False,False
+sql_vs_nosql,SQL vs NoSQL,127,14,0,0,4,0,0,0,16,0,3,False,False,True,False,True,False,False
+scala,Scala,390,26,2,3,3,0,0,0,0,2,1,False,False,False,True,True,False,False
+security_vulnerabilities,Security Vulnerabilities,435,73,8,3,7,5,19,0,0,0,1,True,False,False,False,True,False,False
+sharepoint,Sharepoint,199,21,2,3,3,0,0,0,0,0,3,False,False,False,False,True,False,False
+snowflake_vs_hadoop,Snowflake vs Hadoop,281,20,2,3,2,0,0,0,0,0,2,False,False,False,False,True,False,False
+snowflake,Snowflake,188,17,1,3,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+software_development_life_cycle,Software Development Life Cycle,454,36,5,3,7,0,0,0,0,0,1,False,False,False,False,True,False,False
+spark_dataframes_in_databricks,Spark DataFrames in Databricks,54,22,0,0,4,3,8,0,0,0,4,True,False,False,False,True,False,False
+streamlit,Streamlit,99,9,0,0,6,0,0,0,0,0,4,False,False,False,False,True,False,False
+toml,TOML,239,27,2,2,0,1,12,0,0,0,2,True,False,False,False,False,False,False
+technical_design_doc_template,Technical Design Doc Template,408,62,15,1,22,0,0,0,5,0,1,False,False,True,False,True,False,False
+terminal_commands,Terminal commands,14,4,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+testing,Testing,275,39,2,2,17,0,0,0,0,0,2,False,False,False,False,True,False,True
+types_of_computational_bugs,Types of Computational Bugs,482,17,2,3,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+ubuntu,Ubuntu,210,7,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+typescript,TypeScript,15,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+using_requirements_or_env.yml,Using requirements or env.yml,149,58,5,3,11,6,23,0,0,0,1,True,False,False,False,True,False,False
+web_feature_server_(wfs),Web Feature Server (WFS),104,8,0,0,5,0,0,0,0,0,1,False,False,False,False,True,False,False
+vercel,Vercel,128,13,2,3,9,0,0,0,0,0,1,False,False,False,False,True,False,False
+virtual_environments,Virtual environments,59,20,0,0,3,1,4,0,0,0,1,True,False,False,False,True,False,False
+windows_scheduled_tasks,Windows Scheduled Tasks,268,69,5,3,4,6,22,0,0,3,1,True,False,False,True,True,False,False
+why_json_is_better_than_pickle_for_untrusted_data,Why JSON is Better than Pickle for Untrusted Data,157,11,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+web_map_tile_service_(wmts),Web Map Tile Service (WMTS),103,8,0,0,5,0,0,0,0,0,1,False,False,False,False,True,False,False
+windows,Windows,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+bat,bat,527,46,6,3,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+dependency_manager,dependency manager,5,4,0,0,0,0,0,0,0,0,2,False,False,False,False,False,True,False
+dbt,dbt,723,54,6,3,8,1,12,0,0,1,6,True,False,False,True,True,False,False
+dagster,dagster,53,4,0,0,2,0,0,0,0,0,1,False,False,False,False,True,False,False
+frontend,frontend,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+functional_programming,functional programming,53,2,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+gitlab-ci.yml,gitlab-ci.yml,205,51,7,3,4,1,30,0,0,0,1,True,False,False,False,True,False,False
+imperative,imperative,109,6,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+ipynb,ipynb,145,20,4,3,9,0,0,0,0,0,1,False,False,False,False,True,False,False
+jinja_template,jinja template,102,18,3,3,0,0,0,2,0,0,1,False,True,False,False,False,False,False
+kubernetes,kubernetes,79,1,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+jupytext,jupytext,124,37,11,3,10,3,15,0,0,0,3,True,False,False,False,True,False,False
+nbconvert,nbconvert,238,44,5,3,4,4,8,0,23,0,3,True,False,True,False,True,False,False
+tool.bandit,tool.bandit,364,57,7,3,3,7,20,0,0,0,3,True,False,False,False,True,False,False
+tool.ruff,tool.ruff,71,16,5,2,0,1,10,0,0,0,1,True,False,False,False,False,False,False
+shapefile,shapefile,479,22,4,3,6,0,0,0,0,0,1,False,False,False,False,True,False,False
+tool.uv,tool.uv,227,10,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+unittest,unittest,106,19,4,4,7,0,0,0,0,0,1,False,False,False,False,True,False,False
+ai_engineer,AI Engineer,11,5,0,0,4,0,0,0,0,0,1,False,False,False,False,True,False,False
+yaml,yaml,69,38,4,1,3,1,33,0,0,0,1,True,False,False,False,True,False,False
+ai_governance,AI governance,112,19,5,4,13,0,0,0,0,0,2,False,False,False,False,True,False,False
+analytics_engineer,Analytics Engineer,102,7,0,0,6,0,0,0,0,0,0,False,False,False,False,True,False,False
+business_understanding,Business Understanding,67,10,0,0,7,0,0,0,0,0,1,False,False,False,False,True,False,False
+business_values,Business Values,7,3,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+business_observability,Business observability,209,10,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+data_ai_education_at_work,Data AI Education at Work,348,41,4,3,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+data_governance,Data Governance,95,3,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+data_engineer,Data Engineer,219,23,2,3,5,0,0,0,0,0,2,False,False,False,False,True,False,False
+data_roles,Data Roles,228,17,2,4,3,0,0,0,20,0,1,False,False,True,False,True,False,False
+data_steward,Data Steward,224,18,2,3,4,0,0,0,0,0,1,False,False,False,False,True,False,False
+design_thinking_questions,Design Thinking Questions,20,3,0,0,3,0,0,0,0,0,1,False,False,False,False,True,False,False
+documentation_&_meetings,Documentation & Meetings,499,70,13,3,37,0,0,0,0,0,3,False,False,False,False,True,False,False
+energy_abm,Energy ABM,117,5,1,1,4,0,0,0,0,0,1,False,False,False,False,True,False,False
+energy_demand_forecasting,Energy Demand Forecasting,141,7,0,0,4,0,0,0,0,0,1,False,False,False,False,True,False,False
+energy_storage,Energy Storage,22,4,1,2,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+energy,Energy,194,19,0,0,14,0,0,0,0,0,1,False,False,False,False,True,False,False
+facts,Facts,26,2,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+gartner_hype_cycle,Gartner Hype Cycle,143,19,0,0,0,0,0,1,0,0,2,False,True,False,False,False,False,False
+industries_of_interest,Industries of interest,154,12,1,3,8,0,0,0,0,0,1,False,False,False,False,True,False,False
+knowledge_work,Knowledge Work,124,11,2,2,8,0,0,0,0,0,1,False,False,False,False,True,False,False
+ml_engineer,ML Engineer,19,3,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+managing_people,Managing People,250,47,1,3,23,0,0,0,0,0,2,False,False,False,False,True,False,False
+network_design,Network Design,24,2,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+operational_resilience_for_growth_and_adaptability,Operational Resilience for Growth and Adaptability,228,25,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+reporting,Reporting,14,5,0,0,3,0,0,0,0,0,1,False,False,False,False,True,False,False
+smart_grids,Smart Grids,141,8,1,2,2,0,0,0,0,0,1,False,False,False,False,True,False,False
+scaling_data_science_capability,Scaling Data Science Capability,67,8,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+telecommunications,Telecommunications,198,11,1,6,4,0,0,0,0,0,1,False,False,False,False,True,False,False
+thinking_systems,Thinking Systems,210,28,3,3,12,0,0,0,0,0,2,False,False,False,False,True,False,False
+use_of_rnns_in_energy_sector,Use of RNNs in energy sector,1166,72,11,3,0,0,0,0,0,0,4,False,False,False,False,False,False,False
+working_with_smes,Working with SMEs,79,16,0,0,12,0,0,0,0,0,1,False,False,False,False,True,False,False
+business_intelligence,business intelligence,190,8,1,2,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+data_literacy,data literacy,196,8,0,0,3,0,0,0,0,0,1,False,False,False,False,True,False,False
+aic_in_model_evaluation,AIC in Model Evaluation,160,22,7,4,2,1,10,0,0,0,1,True,False,False,False,True,False,True
+auc,AUC,198,24,5,4,6,1,10,0,0,0,1,True,False,False,False,True,False,False
+accuracy,Accuracy,266,23,5,3,8,1,5,0,0,0,1,True,False,False,False,True,False,True
+activation_function,Activation Function,388,23,2,3,0,0,0,0,0,0,1,False,False,False,False,False,False,True
+activation_atlases,Activation atlases,19,2,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+active_learning,Active Learning,22,3,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+adam_optimizer,Adam Optimizer,266,17,2,4,2,0,0,0,0,0,2,False,False,False,False,True,False,True
+adaptive_learning_rates,Adaptive Learning Rates,45,3,0,0,1,0,0,0,0,0,3,False,False,False,False,True,False,False
+adjusted_r_squared,Adjusted R squared,273,16,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,True
+agent-based_modelling,Agent-Based Modelling,702,57,11,3,7,0,0,0,0,0,1,False,False,False,False,True,False,False
+anomaly_detection_in_time_series,Anomaly Detection in Time Series,341,24,7,3,11,0,0,0,0,0,4,False,False,False,False,True,False,False
+anomaly_detection_with_clustering,Anomaly Detection with Clustering,199,6,0,0,0,0,0,0,15,0,2,False,False,True,False,False,False,False
+anomaly_detection_with_statistical_methods,Anomaly Detection with Statistical Methods,208,34,3,3,16,0,0,0,0,0,3,False,False,False,False,True,False,False
+anomaly_detection,Anomaly Detection,302,33,2,2,13,0,0,0,0,0,1,False,False,False,False,True,False,False
+assessing_gen_ai_generated_content,Assessing Gen AI generated content,282,11,1,3,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+automl,AutoML,18,4,0,0,2,0,0,0,0,0,2,False,False,False,False,True,False,False
+automated_feature_creation,Automated Feature Creation,123,10,0,0,6,0,0,0,0,0,1,False,False,False,False,True,False,False
+backpropagation,Backpropagation,384,44,10,2,8,1,19,0,0,0,3,True,False,False,False,True,False,True
+bagging_vs_boosting,Bagging vs Boosting,140,12,2,3,2,0,0,0,14,0,4,False,False,True,False,True,False,False
+bagging,Bagging,859,69,15,3,17,0,0,0,32,0,5,False,False,True,False,True,False,False
+batch_normalisation,Batch Normalisation,192,53,6,3,4,2,37,1,0,0,1,True,True,False,False,True,False,False
+bias_in_ml,Bias in ML,100,8,0,0,5,0,0,0,0,0,2,False,False,False,False,True,False,False
+binary_classification,Binary Classification,79,6,0,0,4,0,0,0,0,0,3,False,False,False,False,True,False,False
+boosting,Boosting,372,28,5,3,11,0,0,0,0,0,2,False,False,False,False,True,False,False
+business_value_of_anomaly_detection,Business value of anomaly detection,60,7,0,0,3,0,0,0,0,0,2,False,False,False,False,True,False,False
+cart,CART,234,23,0,0,6,0,0,0,0,0,3,False,False,False,False,True,False,False
+catboost,CatBoost,241,52,9,4,0,7,21,0,0,0,2,True,False,False,False,False,False,False
+challenges_to_model_deployment,Challenges to Model Deployment,184,25,0,0,0,0,0,0,0,0,6,False,False,False,False,False,False,False
+class_separability,Class Separability,233,7,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+classification,Classification,239,21,3,2,6,0,0,0,0,0,2,False,False,False,False,True,False,False
+classification_report,Classification Report,185,32,3,3,12,1,12,1,0,0,1,True,True,False,False,True,False,False
+cluster_density,Cluster Density,66,10,0,0,6,0,0,0,0,0,1,False,False,False,False,True,False,False
+cluster_seperation,Cluster Seperation,61,10,0,0,6,0,0,0,0,0,1,False,False,False,False,True,False,False
+collaborative_filtering,Collaborative Filtering,108,11,2,3,2,0,0,0,0,0,2,False,False,False,False,True,False,False
+clustering,Clustering,195,24,3,2,10,1,3,0,0,0,1,True,False,False,False,True,False,False
+confusion_matrix,Confusion Matrix,215,32,7,2,11,2,9,3,0,0,1,True,True,False,False,True,False,False
+cost_function,Cost Function,268,31,7,4,15,0,0,2,0,0,2,False,True,False,False,True,False,True
+cost-sensitive_analysis,Cost-Sensitive Analysis,426,18,2,3,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+cross_entropy,Cross Entropy,462,32,2,3,5,0,0,0,0,0,2,False,False,False,False,True,False,True
+customer_growth_modeling,Customer Growth Modeling,244,25,2,2,12,0,0,0,14,0,5,False,False,True,False,True,False,False
+dbscan,DBSCAN,196,26,5,3,4,1,15,0,0,0,2,True,False,False,False,True,False,False
+data_selection_in_ml,Data Selection in ML,332,23,0,0,2,0,0,0,0,0,1,False,False,False,False,True,False,False
+data_transformation_in_machine_learning,Data Transformation in Machine Learning,67,5,0,0,4,0,0,0,0,0,2,False,False,False,False,True,False,False
+decision_theory,Decision Theory,5,3,0,0,2,0,0,0,0,0,2,False,False,False,False,True,True,False
+decision_tree,Decision Tree,477,46,6,3,12,0,0,1,20,0,2,False,True,True,False,True,False,False
+decision_trees_are_fragile,Decision Trees are Fragile,159,16,2,3,2,0,0,0,1,0,3,False,False,True,False,True,False,False
+deep_learning_frameworks,Deep Learning Frameworks,7,4,0,0,0,0,0,0,0,0,2,False,False,False,False,False,True,False
+deep_q-learning,Deep Q-Learning,230,16,3,3,6,0,0,1,0,0,1,False,True,False,False,True,False,False
+dendrograms,Dendrograms,22,3,0,0,0,0,0,1,0,0,2,False,True,False,False,False,False,False
+determining_threshold_values,Determining Threshold Values,141,9,0,0,6,0,0,0,0,0,2,False,False,False,False,True,False,False
+dimension_table,Dimension Table,309,17,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+dimensional_modelling,Dimensional Modelling,105,9,0,0,3,0,0,0,0,0,2,False,False,False,False,True,False,False
+dimensionality_reduction,Dimensionality Reduction,255,10,2,3,3,0,0,0,0,0,2,False,False,False,False,True,False,False
+dimensions,Dimensions,40,3,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+distributions_in_decision_tree_leaves,Distributions in Decision Tree Leaves,189,16,3,4,9,0,0,0,0,0,2,False,False,False,False,True,False,False
+dropout,Dropout,121,12,2,1,2,1,5,0,0,0,2,True,False,False,False,True,False,False
+dummy_variable_trap,Dummy variable trap,398,25,4,3,3,0,0,0,20,0,3,False,False,True,False,True,False,True
+edge_ml,Edge ML,454,26,4,4,4,0,0,0,0,0,1,False,False,False,False,True,False,False
+encoding_categorical_variables,Encoding Categorical Variables,294,47,5,3,2,5,26,0,0,0,3,True,False,False,False,True,False,False
+epoch,Epoch,128,11,0,0,4,1,3,0,0,0,2,True,False,False,False,True,False,True
+evaluating_language_models,Evaluating Language Models,253,8,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+evaluating_logistic_regression,Evaluating Logistic Regression,5,1,0,0,1,0,0,0,0,0,0,False,False,False,False,True,True,False
+evaluating_the_effectiveness_of_prompts,Evaluating the effectiveness of prompts,34,5,0,0,1,0,0,0,0,0,2,False,False,False,False,True,False,False
+evaluation_metrics,Evaluation Metrics,310,32,4,2,8,0,0,2,0,0,2,False,True,False,False,True,False,False
+exploration_vs_exploitation,Exploration vs Exploitation,43,2,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+exponential_smoothing,Exponential Smoothing,199,18,1,3,6,1,2,0,0,0,3,True,False,False,False,True,False,False
+f1_score,F1 Score,381,23,5,3,10,0,0,0,0,0,1,False,False,False,False,True,False,True
+faiss,FAISS,224,24,3,3,16,0,0,0,0,0,2,False,False,False,False,True,False,False
+fact_table,Fact Table,236,11,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+feature_engineering_for_time_series,Feature Engineering for Time Series,188,18,0,0,11,0,0,0,0,0,2,False,False,False,False,True,False,False
+feature_evaluation,Feature Evaluation,105,16,3,4,9,0,0,0,0,0,2,False,False,False,False,True,False,False
+feature_extraction,Feature Extraction,138,15,0,0,6,1,3,0,0,0,3,True,False,False,False,True,False,False
+feature_importance,Feature Importance,310,25,3,3,13,0,0,0,0,0,3,False,False,False,False,True,False,False
+feature_selection,Feature Selection,463,30,4,3,17,0,0,0,0,0,5,False,False,False,False,True,False,False
+feature_transformations,Feature Transformations,62,5,0,0,4,0,0,0,0,0,1,False,False,False,False,True,False,False
+feed_forward_neural_network,Feed Forward Neural Network,221,11,3,3,7,0,0,0,0,0,2,False,False,False,False,True,False,False
+filter_methods,Filter Methods,131,17,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+fitting_weights_and_biases_of_a_neural_network,Fitting weights and biases of a neural network,597,55,9,2,14,3,12,0,0,0,2,True,False,False,False,True,False,True
+framework_for_models,Framework for models,72,16,4,2,12,0,0,0,0,0,0,False,False,False,False,True,False,False
+gru,GRU,0,0,0,0,0,0,0,0,0,0,2,False,False,False,False,False,True,False
+gaussian_model,Gaussian Model,84,16,1,3,2,0,0,1,1,0,1,False,True,True,False,True,False,True
+general_linear_regression,General Linear Regression,12,3,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+generalisation,Generalisation,19,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+generative_adversarial_networks,Generative Adversarial Networks,26,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+gini_impurity_vs_cross_entropy,Gini Impurity vs Cross Entropy,279,13,3,3,9,0,0,0,0,0,1,False,False,False,False,True,False,False
+gini_impurity,Gini Impurity,377,33,6,4,7,0,0,0,0,0,3,False,False,False,False,True,False,True
+gradient_boosted_trees,Gradient Boosted Trees,5,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,True,False
+gradient_boosting_regressor,Gradient Boosting Regressor,413,15,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+gradient_boosting,Gradient Boosting,219,19,3,3,9,0,0,0,0,0,1,False,False,False,False,True,False,False
+gradient_descent,Gradient Descent,257,37,1,3,12,0,0,4,0,0,1,False,True,False,False,True,False,True
+gradient_descent_in_linear_regression,Gradient descent in linear regression,267,13,0,0,1,0,0,0,0,0,2,False,False,False,False,True,False,True
+graph_neural_network,Graph Neural Network,67,12,0,0,8,0,0,0,0,0,1,False,False,False,False,True,False,False
+graph_theory_community,Graph Theory Community,188,21,3,3,5,0,0,0,6,0,2,False,False,True,False,True,False,False
+gridseachcv,GridSeachCv,36,12,1,1,0,1,9,1,0,0,1,True,True,False,False,False,False,False
+growth_models_in_time_series,Growth Models in Time Series,402,48,11,4,20,0,0,0,0,0,0,False,False,False,False,True,False,True
+hierarchical_clustering,Hierarchical Clustering,33,2,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+high_cross_validation_accuracy_is_not_directly_proportional_to_performance_on_unseen_test_data,High cross validation accuracy is not directly proportional to performance on unseen test data,194,23,1,3,3,0,0,0,0,0,2,False,False,False,False,True,False,False
+histogram,Histogram,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,True,False
+how_do_we_evaluate_of_llm_outputs,How do we evaluate of LLM Outputs,88,10,3,3,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+how_to_use_sklearn_pipeline,How to use Sklearn Pipeline,2,1,0,0,0,0,0,0,0,0,2,False,False,False,False,False,True,False
+hyperparameter_tuning,Hyperparameter Tuning,339,42,1,3,16,0,0,0,0,0,2,False,False,False,False,True,False,False
+hyperparameter,Hyperparameter,43,7,0,0,4,0,0,0,0,0,2,False,False,False,False,True,False,False
+ice_plot,ICE Plot,49,5,0,0,2,0,0,0,0,0,0,False,False,False,False,True,False,False
+impact_of_multicollinearity_on_model_parameters,Impact of multicollinearity on model parameters,2,20,1,1,0,1,23,0,0,0,3,True,False,False,False,False,True,False
+inertia_k_means_cost_function,Inertia K Means Cost Function,77,12,0,0,6,0,0,0,0,0,2,False,False,False,False,True,False,True
+interoperability,Interoperability,14,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+interpretability,Interpretability,1072,60,9,3,19,0,0,0,0,0,2,False,False,False,False,True,False,False
+interpreting_logistic_regression_model_parameters,Interpreting logistic regression model parameters,12,2,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+isolated_forest,Isolated Forest,381,25,0,0,4,0,0,0,0,0,2,False,False,False,False,True,False,False
+jaccard_coefficient,Jaccard Coefficient,46,7,0,0,0,0,0,0,2,0,2,False,False,True,False,False,False,True
+k-means,K-means,239,21,3,2,5,0,0,1,0,0,1,False,True,False,False,True,False,False
+k-nearest_neighbours,K-nearest neighbours,176,17,4,3,12,0,0,0,0,0,2,False,False,False,False,True,False,True
+keras,Keras,133,12,1,3,1,0,0,0,0,0,2,False,False,False,False,True,False,False
+kernel_density_estimation,Kernel Density Estimation,0,0,0,0,0,0,0,0,0,0,2,False,False,False,False,False,True,False
+kernelling,Kernelling,116,7,0,0,0,0,0,1,0,0,2,False,True,False,False,False,False,False
+kmeans_vs_gmm,Kmeans vs GMM,134,11,4,4,7,0,0,0,0,0,1,False,False,False,False,True,False,False
+l1_regularisation,L1 Regularisation,121,24,1,1,7,1,6,0,1,0,4,True,False,True,False,True,False,True
+lbfgs,LBFGS,256,7,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+llm_evaluation_metrics,LLM Evaluation Metrics,17,6,0,0,3,0,0,0,0,0,2,False,False,False,False,True,False,False
+label_encoding_vs_one-hot_encoding,Label encoding vs One-hot encoding,326,16,0,0,4,0,0,0,0,0,1,False,False,False,False,True,False,False
+labelling_data,Labelling data,27,5,0,0,2,0,0,0,0,0,1,False,False,False,False,True,False,False
+lagrange_multipliers_in_optimisation,Lagrange multipliers in optimisation,215,19,3,3,3,0,0,0,1,0,2,False,False,True,False,True,False,True
+latent_dirichlet_allocation,Latent Dirichlet Allocation,473,66,16,3,16,1,34,0,0,0,2,True,False,False,False,True,False,False
+latent_semantic_indexing,Latent Semantic Indexing,56,4,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+learning_curve,Learning Curve,203,19,0,0,8,1,3,0,0,0,2,True,False,False,False,True,False,False
+learning_rate,Learning Rate,282,19,1,3,3,0,0,1,0,0,1,False,True,False,False,True,False,False
+learning_styles,Learning Styles,18,8,0,0,0,0,0,1,0,0,1,False,True,False,False,False,False,False
+lightgbm_vs_xgboost_vs_catboost,LightGBM vs XGBoost vs CatBoost,215,9,0,0,0,0,0,0,16,0,1,False,False,True,False,False,False,False
+lightgbm,LightGBM,199,17,3,3,12,0,0,0,0,0,1,False,False,False,False,True,False,False
+linear_regression,Linear Regression,296,24,2,3,14,0,0,0,0,0,1,False,False,False,False,True,False,True
+local_interpretable_model-agnostic_explainations,Local Interpretable Model-agnostic Explainations,237,24,4,3,5,1,10,0,0,0,1,True,False,False,False,True,False,False
+local_outlier_factor_(lof),Local Outlier Factor (LOF),72,9,1,2,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+logistic_regression_statsmodel_summary_table,Logistic Regression Statsmodel Summary table,98,11,0,0,5,0,0,1,0,0,2,False,True,False,False,True,False,True
+logistic_regression_does_not_predict_probabilities,Logistic Regression does not predict probabilities,103,9,0,0,2,0,0,0,0,0,3,False,False,False,False,True,False,True
+logistic_regression,Logistic Regression,463,48,8,3,19,0,0,0,0,0,3,False,False,False,False,True,False,True
+logistic_regression_in_sklearn_&_gradient_descent,Logistic regression in sklearn & Gradient Descent,160,18,2,3,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+loss_function,Loss function,144,16,4,4,8,0,0,0,0,0,1,False,False,False,False,True,False,False
+loss_versus_cost_function,Loss versus Cost function,141,5,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+machine_learning_operations,Machine Learning Operations,207,22,1,3,0,0,0,0,1,0,6,False,False,True,False,False,False,False
+machine_learning,Machine Learning,43,2,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+markov_decision_processes,Markov Decision Processes,58,5,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+manifold_learning,Manifold Learning,433,14,2,3,1,0,0,1,0,0,1,False,True,False,False,True,False,False
+maximum_likelihood_estimation,Maximum Likelihood Estimation,127,21,0,0,6,0,0,1,0,0,2,False,True,False,False,True,False,True
+median_absolute_error,Median Absolute Error,42,5,1,4,0,0,0,0,1,0,0,False,False,True,False,False,False,True
+mermaid,Mermaid,19,36,0,0,0,1,36,0,3,0,1,True,False,True,False,False,False,False
+metadata_handling,Metadata Handling,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+methods_for_handling_outliers,Methods for Handling Outliers,78,12,3,3,4,1,4,0,0,0,2,True,False,False,False,True,False,False
+metric,Metric,137,14,2,3,5,0,0,0,0,0,2,False,False,False,False,True,False,False
+mini-batch_gradient_descent,Mini-batch gradient descent,63,5,0,0,3,0,0,0,0,0,3,False,False,False,False,True,False,False
+model_building,Model Building,112,11,1,2,6,0,0,0,0,0,2,False,False,False,False,True,False,False
+model_deployment_using_pycaret,Model Deployment using PyCaret,191,10,1,4,4,0,0,0,0,0,0,False,False,False,False,True,False,False
+model_ensemble,Model Ensemble,237,20,4,3,11,0,0,0,0,0,2,False,False,False,False,True,False,False
+model_evaluation_vs_model_optimisation,Model Evaluation vs Model Optimisation,66,3,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+model_evaluation,Model Evaluation,192,11,0,0,3,0,0,0,0,0,2,False,False,False,False,True,False,False
+model_interpretability,Model Interpretability,338,18,0,0,3,0,0,0,0,0,1,False,False,False,False,True,False,False
+model_observability,Model Observability,484,28,3,2,6,0,0,0,0,0,2,False,False,False,False,True,False,False
+model_optimisation,Model Optimisation,240,23,2,3,4,0,0,0,0,0,0,False,False,False,False,True,False,False
+model_parameters_tuning,Model Parameters Tuning,253,18,2,3,0,0,0,1,0,0,2,False,True,False,False,False,False,False
+model_parameters,Model Parameters,155,22,1,3,2,0,0,0,0,0,2,False,False,False,False,True,False,False
+model_random_states,Model Random States,208,34,3,3,10,1,16,0,0,0,1,True,False,False,False,True,False,True
+model_selection,Model Selection,298,15,0,0,6,0,0,0,0,0,3,False,False,False,False,True,False,False
+model_validation,Model Validation,158,3,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+model_parameters_vs_hyperparameters,Model parameters vs hyperparameters,166,16,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+momentum,Momentum,230,19,1,2,0,0,0,0,0,0,1,False,False,False,False,False,False,True
+moving_average_forecast,Moving Average Forecast,247,16,3,4,9,0,0,0,0,0,3,False,False,False,False,True,False,True
+multinomial_naive_bayes,Multinomial Naive bayes,0,0,0,0,0,0,0,0,0,0,3,False,False,False,False,False,True,False
+multiple_linear_regression,Multiple Linear Regression,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,True,False
+naive_bayes_classifier,Naive Bayes Classifier,189,37,3,3,16,1,6,0,1,0,5,True,False,True,False,True,False,True
+naive_forecast,Naive Forecast,15,2,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+neural_network_classification,Neural Network Classification,237,12,3,2,3,0,0,0,0,0,1,False,False,False,False,True,False,False
+neural_scaling_laws,Neural Scaling Laws,183,29,3,4,0,0,0,4,0,0,1,False,True,False,False,False,False,True
+neural_network_in_practice,Neural network in Practice,282,26,3,3,0,1,2,0,0,0,1,True,False,False,False,False,False,False
+neural_network,Neural network,486,38,2,3,19,0,0,0,0,0,2,False,False,False,False,True,False,False
+non-negative_matrix_factorization_in_ml,Non-negative matrix factorization in ML,3,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+non-parametric_tests,Non-parametric tests,0,0,0,0,0,0,0,0,0,0,2,False,False,False,False,False,True,False
+normalisation_of_data,Normalisation of data,65,2,0,0,0,0,0,0,0,0,3,False,False,False,False,False,False,False
+normalisation_vs_standardisation,Normalisation vs Standardisation,37,4,0,0,0,0,0,1,0,0,2,False,True,False,False,False,False,False
+one-hot_encoding,One-hot encoding,254,22,2,3,4,1,9,0,0,0,3,True,False,False,False,True,False,False
+optimisation_function,Optimisation function,102,9,0,0,2,0,0,0,0,0,2,False,False,False,False,True,False,False
+optimisation_techniques,Optimisation techniques,92,12,0,0,9,0,0,0,0,0,2,False,False,False,False,True,False,True
+optimising_neural_networks,Optimising Neural Networks,34,8,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+optimising_a_logistic_regression_model,Optimising a Logistic Regression Model,483,23,4,3,11,0,0,0,0,0,2,False,False,False,False,True,False,True
+optuna,Optuna,333,64,14,3,0,1,36,0,0,0,1,True,False,False,False,False,False,False
+order_matters_in_boosting,Order matters in Boosting,154,16,2,3,2,0,0,0,0,0,2,False,False,False,False,True,False,False
+ordinary_least_squares,Ordinary Least Squares,140,10,1,3,0,0,0,2,1,0,1,False,True,True,False,False,False,True
+orthogonalization,Orthogonalization,99,19,0,0,6,0,0,0,0,0,2,False,False,False,False,True,False,False
+outliers,Outliers,98,11,0,0,8,0,0,0,0,0,3,False,False,False,False,True,False,False
+over_parameterised_models,Over parameterised models,5,2,0,0,0,0,0,0,0,0,2,False,False,False,False,False,True,False
+pca_explained_variance_ratio,PCA Explained Variance Ratio,456,27,3,3,7,2,4,0,0,0,1,True,False,False,False,True,False,False
+pca_principal_components,PCA Principal Components,391,35,6,3,3,0,0,1,12,0,2,False,True,True,False,True,False,False
+pca-based_anomaly_detection,PCA-Based Anomaly Detection,9,2,0,0,1,0,0,0,0,0,1,False,False,False,False,True,True,False
+partial_dependence_plot,Partial Dependence Plot,81,12,1,3,2,0,0,2,0,0,2,False,True,False,False,True,False,False
+percentile_detection,Percentile Detection,3,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+polynomial_regression,Polynomial Regression,0,0,0,0,0,0,0,0,0,0,2,False,False,False,False,False,True,False
+performance_drift,Performance Drift,320,24,0,0,0,0,0,1,0,0,3,False,True,False,False,False,False,True
+positional_encoding,Positional Encoding,260,18,1,3,2,0,0,0,16,2,2,False,False,True,True,True,False,False
+precision_or_recall,Precision or Recall,182,10,0,0,5,0,0,1,0,0,1,False,True,False,False,True,False,False
+precision-recall_curve,Precision-Recall Curve,395,18,3,3,6,0,0,1,0,0,2,False,True,False,False,True,False,False
+precision,Precision,108,12,1,2,4,0,0,1,0,0,1,False,True,False,False,True,False,True
+prediction_intervals_vs_confidence_interval,Prediction Intervals vs Confidence Interval,164,13,0,0,2,0,0,0,0,0,3,False,False,False,False,True,False,False
+principal_component_analysis,Principal Component Analysis,229,20,5,3,10,0,0,0,0,0,2,False,False,False,False,True,False,False
+pycaret,PyCaret,225,30,4,3,8,0,0,0,0,0,3,False,False,False,False,True,False,False
+pyod,PyOD,32,26,7,1,1,1,30,0,0,0,2,True,False,False,False,True,False,False
+pytorch,PyTorch,935,190,30,6,27,8,133,0,0,0,2,True,False,False,False,True,False,True
+pytorch_vs_tensorflow,Pytorch vs Tensorflow,38,6,0,0,6,0,0,0,0,0,2,False,False,False,False,True,False,False
+q-learning,Q-Learning,243,20,0,0,9,0,0,1,0,0,2,False,True,False,False,True,False,True
+roc_(receiver_operating_characteristic),ROC (Receiver Operating Characteristic),159,43,11,4,2,2,37,0,0,0,2,True,False,False,False,True,False,False
+random_forest_for_time_series,Random Forest for Time Series,241,30,0,0,5,0,0,0,0,0,3,False,False,False,False,True,False,True
+random_forest,Random Forest,231,31,0,0,20,0,0,2,0,0,1,False,True,False,False,True,False,True
+recall,Recall,162,11,0,0,3,0,0,1,0,0,1,False,True,False,False,True,False,True
+recommender_systems,Recommender systems,229,13,1,3,1,0,0,0,0,0,2,False,False,False,False,True,False,False
+recurrent_neural_networks,Recurrent Neural Networks,392,35,9,4,12,0,0,2,0,0,2,False,True,False,False,True,False,False
+regression_metrics,Regression Metrics,233,17,2,3,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+regression,Regression,260,15,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,True
+regularisation_of_tree_based_models,Regularisation of Tree based models,729,75,2,3,9,8,31,0,0,0,3,True,False,False,False,True,False,False
+regularisation,Regularisation,356,28,7,3,14,0,0,0,0,0,5,False,False,False,False,True,False,True
+reinforcement_learning,Reinforcement learning,398,43,7,4,9,1,14,0,0,0,2,True,False,False,False,True,False,True
+relationships_in_memory,Relationships in memory,311,11,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+reward_function,Reward Function,20,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+ridge,Ridge,419,45,11,4,11,2,9,0,2,0,0,True,False,True,False,True,False,True
+sarima,SARIMA,365,46,8,4,8,0,0,0,0,0,3,False,False,False,False,True,False,True
+sammon’s_mapping,Sammon’s Mapping,39,4,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+scikit-learn,Scikit-Learn,75,6,1,3,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+secretary_problem,Secretary Problem,238,28,3,3,10,0,0,0,0,0,4,False,False,False,False,True,False,True
+sentence_transformers,Sentence Transformers,215,18,0,0,12,0,0,0,0,0,2,False,False,False,False,True,False,False
+sklearn_pipeline,Sklearn Pipeline,10,2,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+specificity,Specificity,68,4,0,0,1,0,0,0,0,0,1,False,False,False,False,True,False,True
+spectral_clustering,Spectral Clustering,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,True,False
+supervised_learning,Supervised Learning,330,33,5,4,9,0,0,1,6,0,1,False,True,True,False,True,False,False
+support_vector_classifier,Support Vector Classifier,195,9,3,2,5,0,0,0,0,0,1,False,False,False,False,True,False,False
+support_vector_machines,Support Vector Machines,259,22,2,2,8,0,0,2,0,0,2,False,True,False,False,True,False,False
+tensorflow,Tensorflow,195,19,1,3,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+support_vector_regression,Support Vector Regression,15,1,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+test_loss_when_evaluating_models,Test Loss When Evaluating Models,383,27,2,2,3,0,0,0,0,0,1,False,False,False,False,True,False,False
+text_classification,Text Classification,197,23,4,3,13,0,0,0,0,0,3,False,False,False,False,True,False,True
+time_series_python_packages,Time Series Python Packages,95,15,0,0,10,0,0,0,0,0,2,False,False,False,False,True,False,False
+train-dev-test_sets,Train-Dev-Test Sets,602,62,3,3,16,3,12,0,12,0,1,True,False,True,False,True,False,True
+transfer_learning,Transfer Learning,496,28,3,3,16,0,0,0,0,0,1,False,False,False,False,True,False,False
+transformer,Transformer,439,26,2,3,3,0,0,0,0,0,2,False,False,False,False,True,False,False
+transformed_target_regressor,Transformed Target Regressor,179,6,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+transformers_vs_rnns,Transformers vs RNNs,1231,90,9,4,36,0,0,0,18,0,1,False,False,True,False,True,False,False
+type_i_error_(false_positive),Type I Error (False Positive),80,4,1,3,3,0,0,0,0,0,1,False,False,False,False,True,False,False
+type_ii_error_(false_negative),Type II Error (False Negative),86,4,1,3,3,0,0,0,0,0,1,False,False,False,False,True,False,False
+types_of_neural_networks,Types of Neural Networks,18,6,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+typical_output_formats_in_neural_networks,Typical Output Formats in Neural Networks,330,25,7,3,3,0,0,0,0,0,3,False,False,False,False,True,False,False
+umap,UMAP,29,2,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+unsupervised_learning,Unsupervised Learning,285,25,5,4,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+use_cases_for_a_simple_neural_network_like,Use Cases for a Simple Neural Network Like,236,16,0,0,7,0,0,0,0,0,1,False,False,False,False,True,False,False
+variability_in_linear_models,Variability in linear models,200,14,0,0,3,0,0,0,0,0,1,False,False,False,False,True,False,True
+variance_in_ml,Variance in ML,149,20,4,4,8,0,0,0,0,0,0,False,False,False,False,True,False,True
+wcss_and_elbow_method,WCSS and elbow method,152,66,13,2,0,2,71,0,0,0,1,True,False,False,False,False,False,False
+vector_embedding,Vector Embedding,372,33,8,3,16,0,0,2,0,0,3,False,True,False,False,True,False,False
+weak_learners,Weak Learners,142,11,4,2,5,0,0,0,0,0,1,False,False,False,False,True,False,False
+when_and_why_not_to_us_regularisation,When and why not to us regularisation,325,12,0,0,4,0,0,0,1,0,3,False,False,True,False,True,False,True
+why_removing_outliers_may_improve_regression_but_harm_classification,Why Removing Outliers May Improve Regression but Harm Classification,143,6,2,3,2,0,0,0,0,0,1,False,False,False,False,True,False,False
+why_type_1_and_type_2_matter,Why Type 1 and Type 2 matter,231,9,1,3,2,0,0,1,0,0,2,False,True,False,False,True,False,False
+why_does_increasing_the_number_of_models_in_a_ensemble_not_necessarily_improve_the_accuracy,Why does increasing the number of models in a ensemble not necessarily improve the accuracy,119,6,0,0,5,0,0,0,0,0,1,False,False,False,False,True,False,False
+why_does_the_adam_optimizer_converge,Why does the Adam Optimizer converge,446,18,7,4,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+why_standardise_features,Why standardise features,283,33,6,3,10,0,0,0,0,0,2,False,False,False,False,True,False,True
+wrapper_methods,Wrapper Methods,337,11,1,2,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+xgboost,XGBoost,648,93,11,4,8,7,28,0,0,0,1,True,False,False,False,True,False,True
+xaiver,Xaiver,132,11,3,3,4,0,0,0,0,0,2,False,False,False,False,True,False,False
+conceptual_data_model,conceptual data model,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+emergent_behavior,emergent behavior,11,2,1,3,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+f-regression,f-regression,248,38,5,3,16,2,9,0,0,0,2,True,False,False,False,True,False,False
+granularity,granularity,524,30,2,3,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+inference_versus_prediction,inference versus prediction,128,5,0,0,2,0,0,0,0,0,2,False,False,False,False,True,False,False
+inference,inference,16,2,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+initialization_methods,initialization methods,167,20,4,2,10,0,0,0,0,0,2,False,False,False,False,True,False,False
+interoperable,interoperable,9,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+lambda_architecture,lambda architecture,623,41,4,3,10,0,0,1,0,0,2,False,True,False,False,True,False,False
+model-agnostic_feature_importance,model-agnostic feature importance,41,6,1,3,3,0,0,0,1,0,2,False,False,True,False,True,False,False
+objective_function,objective function,74,11,1,4,6,0,0,0,0,0,0,False,False,False,False,True,False,True
+semi-structured_data,semi-structured data,162,9,0,0,0,0,0,0,4,0,2,False,False,True,False,False,False,False
+vanishing_and_exploding_gradients_problem,vanishing and exploding gradients problem,202,22,5,2,13,0,0,0,0,0,3,False,False,False,False,True,False,False
+ai_agents_memory,AI Agents Memory,452,56,11,4,31,0,0,0,0,0,4,False,False,False,False,True,False,False
+attention_mechanism,Attention mechanism,227,17,3,3,7,0,0,0,0,0,1,False,False,False,False,True,False,False
+bertscore,BERTScore,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+bert,BERT,371,36,9,3,14,0,0,0,0,0,3,False,False,False,False,True,False,False
+bag_of_words,Bag of words,216,16,1,1,0,1,8,0,0,0,2,True,False,False,False,False,False,False
+chain_of_thought,Chain of thought,151,13,0,0,8,0,0,0,0,0,1,False,False,False,False,True,False,False
+claude,Claude,19,3,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+chatgpt,ChatGPT,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+comparing_llms,Comparing LLMs,19,6,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+distillation,Distillation,10,4,0,0,0,0,0,1,0,0,3,False,True,False,False,False,False,False
+elasticsearch,ElasticSearch,122,16,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+embedded_methods,Embedded Methods,295,16,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+evaluate_embedding_methods,Evaluate Embedding Methods,286,39,6,5,17,1,3,0,0,0,3,True,False,False,False,True,False,True
+generative_ai_from_theory_to_practice,Generative AI From Theory to Practice,215,41,7,3,2,0,0,3,0,0,1,False,True,False,False,True,False,False
+fuzzywuzzy,Fuzzywuzzy,9,2,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+generative_ai,Generative AI,7,4,0,0,2,0,0,0,0,0,1,False,False,False,False,True,True,False
+grammar_method,Grammar method,10,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+guardrails,Guardrails,364,14,4,3,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+how_llms_store_facts,How LLMs store facts,54,10,0,0,2,0,0,0,0,0,2,False,False,False,False,True,False,False
+how_businesses_use_gen_ai,How businesses use Gen AI,340,16,2,2,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+how_to_reduce_the_need_for_gen_ai_responses,How to reduce the need for Gen AI responses,212,11,2,3,3,0,0,0,0,0,2,False,False,False,False,True,False,False
+how_would_you_decide_between_using_tf-idf_and_word2vec_for_text_vectorization,How would you decide between using TF-IDF and Word2Vec for text vectorization,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+in_ner_how_would_you_handle_ambiguous_entities,In NER how would you handle ambiguous entities,183,6,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+key_components_of_attention_and_formula,Key Components of Attention and Formula,168,13,1,3,3,0,0,0,0,0,2,False,False,False,False,True,False,True
+knowledge_graph_vs_rag_setup,Knowledge graph vs RAG setup,359,16,1,3,3,0,0,0,18,0,3,False,False,True,False,True,False,False
+llm,LLM,237,23,3,2,18,0,0,0,0,0,1,False,False,False,False,True,False,False
+llm_memory,LLM Memory,234,20,2,2,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+language_model_output_optimisation,Language Model Output Optimisation,359,10,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+language_models_large_(llms)_vs_small_(slms),Language Models Large (LLMs) vs Small (SLMs),151,9,2,3,0,0,0,0,12,0,1,False,False,True,False,False,False,False
+language_models,Language Models,73,6,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+local_llm_use_cases,Local LLM use cases,212,24,6,4,14,0,0,0,0,0,1,False,False,False,False,True,False,False
+mathematical_reasoning_in_transformers,Mathematical Reasoning in Transformers,142,6,0,0,2,0,0,0,0,0,1,False,False,False,False,True,False,False
+mixture_of_experts,Mixture of Experts,14,3,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+multi-head_attention,Multi-head attention,199,16,3,4,3,0,0,0,0,0,2,False,False,False,False,True,False,True
+model_cascading,Model Cascading,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+ner_implementation,NER Implementation,0,13,4,1,0,1,13,0,0,0,0,True,False,False,False,False,True,False
+nlp_portal,NLP Portal,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+nlp,NLP,355,33,8,3,11,1,9,0,0,0,1,True,False,False,False,True,False,False
+named_entity_recognition,Named Entity Recognition,205,18,4,3,0,0,0,0,0,0,2,False,False,False,False,False,False,True
+ngrams,Ngrams,177,9,2,3,3,0,0,0,0,0,1,False,False,False,False,True,False,False
+non-negative_matrix_factorization,Non-negative Matrix Factorization,246,39,5,3,8,1,11,1,0,0,2,True,True,False,False,True,False,True
+notebooklm,NotebookLM,70,12,0,0,1,0,0,0,0,0,1,False,False,False,False,True,False,False
+pandas_dataframe_agent,Pandas Dataframe Agent,25,7,0,0,1,0,0,0,0,0,1,False,False,False,False,True,False,False
+oov_words,OOV words,334,32,5,3,2,2,4,0,12,1,1,True,False,True,True,True,False,False
+part_of_speech_tagging,Part of speech tagging,61,7,0,0,0,1,3,0,0,0,1,True,False,False,False,False,False,False
+prompt_engineering,Prompt Engineering,314,28,5,3,7,0,0,0,0,0,2,False,False,False,False,True,False,False
+prompts,Prompts,96,19,3,4,7,0,0,1,0,0,1,False,True,False,False,True,False,False
+pyright,Pyright,125,13,2,3,7,0,0,0,0,0,1,False,False,False,False,True,False,False
+rag,RAG,406,38,3,3,2,0,0,1,0,0,1,False,True,False,False,True,False,False
+scaling_agentic_systems,Scaling Agentic Systems,474,61,7,3,5,0,0,0,0,0,2,False,False,False,False,True,False,False
+self_attention_vs_multi-head_attention,Self attention vs multi-head attention,91,14,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+self-attention,Self-Attention,89,6,0,0,3,0,0,0,0,0,3,False,False,False,False,True,False,False
+semantic_relationships,Semantic Relationships,233,13,3,3,2,0,0,0,0,0,2,False,False,False,False,True,False,False
+semantic_search,Semantic search,2,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+sentence_similarity,Sentence Similarity,266,12,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+sentence_transformer_workflow,Sentence Transformer Workflow,126,16,6,4,10,0,0,0,2,0,2,False,False,True,False,True,False,True
+similarity_search,Similarity Search,66,5,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+small_language_models,Small Language Models,261,15,2,3,9,0,0,0,0,0,2,False,False,False,False,True,False,False
+stemming,Stemming,6,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+summarisation,Summarisation,331,17,3,3,4,0,0,0,0,0,1,False,False,False,False,True,False,False
+tf-idf_implementation,TF-IDF Implementation,14,48,6,3,0,2,51,0,0,0,1,True,False,False,False,False,False,False
+tf-idf,TF-IDF,319,43,6,4,19,0,0,0,2,0,3,False,False,True,False,True,False,True
+text2cypher,Text2Cypher,194,9,1,3,0,0,0,0,1,0,2,False,False,True,False,False,False,False
+tokenisation,Tokenisation,135,36,6,4,3,3,19,0,0,0,3,True,False,False,False,True,False,False
+vectorisation,Vectorisation,99,23,6,4,5,1,11,1,0,1,2,True,True,False,True,True,False,False
+why_is_named_entity_recognition_(ner)_a_challenging_task,Why is named entity recognition (NER) a challenging task,246,8,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+word2vec,Word2vec,97,10,0,0,1,0,0,0,0,0,3,False,False,False,False,True,False,False
+wordnet,WordNet,54,3,0,0,2,0,0,0,0,0,1,False,False,False,False,True,False,False
+embeddings_for_oov_words,embeddings for OOV words,188,27,5,4,0,2,9,0,12,0,2,True,False,True,False,False,False,False
+lemmatization,lemmatization,83,4,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+nltk,nltk,118,11,1,3,7,0,0,0,0,0,1,False,False,False,False,True,False,False
+prompt_retrievers,prompt retrievers,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+spacy,spaCy,210,45,3,4,0,2,18,0,0,0,2,True,False,False,False,False,False,False
+stopwords,stopwords,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,True,False
+syntactic_relationships,syntactic relationships,103,3,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+topic_modeling,topic modeling,0,0,0,0,0,0,0,0,0,0,2,False,False,False,False,False,True,False
+1-on-1_template,1-on-1 Template,94,14,0,0,5,0,0,0,0,0,1,False,False,False,False,True,False,False
+1-to-1's_with_a_line_manager,1-to-1's with a Line Manager,107,21,1,4,15,0,0,0,0,0,3,False,False,False,False,True,False,False
+asking_questions,Asking questions,386,51,9,4,20,0,0,0,22,0,5,False,False,True,False,True,False,False
+change_management,Change Management,245,23,0,0,11,0,0,0,0,0,1,False,False,False,False,True,False,False
+communication_techniques,Communication Techniques,434,63,8,3,24,0,0,0,0,0,2,False,False,False,False,True,False,False
+communication_principles,Communication principles,3,3,0,0,0,0,0,2,0,0,1,False,True,False,False,False,True,False
+conceptual_model,Conceptual Model,34,7,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+communication_with_stakeholders,Communication with Stakeholders,141,24,2,4,6,0,0,0,0,0,0,False,False,False,False,True,False,False
+documentation,Documentation,11,3,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+education_and_training,Education and Training,104,6,0,0,2,0,0,0,0,0,1,False,False,False,False,True,False,False
+experiment_plan_template,Experiment Plan Template,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+feedback_template,Feedback Template,65,10,0,0,5,0,0,0,0,0,1,False,False,False,False,True,False,False
+fishbone_diagram,Fishbone diagram,31,7,0,0,4,0,0,1,0,0,2,False,True,False,False,True,False,False
+how_to_do_git_commit_messages_properly,How to do git commit messages properly,360,76,5,3,8,10,26,0,0,0,1,True,False,False,False,True,False,False
+jupyter_book,Jupyter Book,68,8,1,2,4,0,0,0,0,0,2,False,False,False,False,True,False,False
+jobs_to_be_done,Jobs to be done,256,25,3,2,1,0,0,1,18,1,2,False,True,True,True,True,False,False
+managing_data_science_teams,Managing Data Science Teams,55,12,0,0,9,0,0,0,0,0,0,False,False,False,False,True,False,False
+modern_data_team,Modern data team,13,5,0,0,4,0,0,0,0,0,0,False,False,False,False,True,False,False
+one_pager_template,One Pager Template,250,37,9,1,9,0,0,0,5,0,1,False,False,True,False,True,False,False
+process_for_prototyping,Process for prototyping,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+problem_definition,Problem Definition,150,17,3,2,8,0,0,0,0,0,1,False,False,False,False,True,False,False
+project_management_portal,Project Management Portal,25,7,0,0,6,0,0,0,0,0,1,False,False,False,False,True,False,False
+pull_request_template,Pull Request Template,181,24,6,2,14,0,0,0,0,0,1,False,False,False,False,True,False,False
+raci,RACI,37,6,0,0,4,0,0,0,0,0,0,False,False,False,False,True,False,False
+remaining_useful_life_models,Remaining useful life models,6,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,True,False
+return_of_experience_form,Return of Experience Form,53,7,0,0,5,0,0,0,0,0,0,False,False,False,False,True,False,False
+reveal.js,Reveal.js,17,6,0,0,2,0,0,0,0,0,1,False,False,False,False,True,False,False
+technical_debt,Technical Debt,241,15,1,3,0,0,0,0,0,0,3,False,False,False,False,False,False,False
+uml,UML,19,5,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+html,html,116,15,5,4,9,0,0,0,0,0,1,False,False,False,False,True,False,False
+why_use_er_diagrams,Why use ER diagrams,216,6,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+pdoc,pdoc,229,43,8,3,5,4,10,0,5,0,3,True,False,True,False,True,False,False
+nbconvert_slideshows,nbconvert slideshows,112,24,0,0,8,0,0,1,0,0,2,False,True,False,False,True,False,False
+project_management,project management,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,True,False
+anova,ANOVA,54,5,0,0,3,0,0,0,0,0,0,False,False,False,False,True,False,False
+addressing_multicollinearity,Addressing Multicollinearity,204,18,3,3,0,1,13,0,0,0,2,True,False,False,False,False,False,False
+assumption_of_normality,Assumption of Normality,2,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+bernoulli,Bernoulli,0,0,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+bootstrap_sampling,Bootstrap Sampling,7,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+casual_inference,Casual Inference,3,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+central_limit_theorem_&_small_sample_sizes,Central Limit Theorem & Small Sample Sizes,325,7,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+central_limit_theorem,Central Limit Theorem,145,14,2,3,4,0,0,0,0,0,1,False,False,False,False,True,False,False
+chi-squared_test,Chi-Squared Test,40,2,1,2,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+confidence_interval,Confidence Interval,96,6,1,3,3,0,0,0,0,0,1,False,False,False,False,True,False,False
+correlation_vs_causation,Correlation vs Causation,62,4,0,0,2,0,0,0,0,0,2,False,False,False,False,True,False,False
+cosine_similarity,Cosine Similarity,104,7,0,0,3,0,0,0,0,0,2,False,False,False,False,True,False,False
+correlation,Correlation,317,32,5,3,7,1,2,0,0,0,1,True,False,False,False,True,False,False
+covariance_vs_correlation,Covariance vs Correlation,192,13,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,True
+covariance,Covariance,207,17,0,0,9,0,0,0,0,0,2,False,False,False,False,True,False,True
+cryptography,Cryptography,217,110,14,3,5,7,91,0,0,0,3,True,False,False,False,True,False,True
+differentation,Differentation,18,5,1,1,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+distributions,Distributions,259,22,4,4,12,0,0,1,0,0,2,False,True,False,False,True,False,False
+em_algorithm,EM Algorithm,55,11,0,0,2,0,0,0,0,0,1,False,False,False,False,True,False,False
+factor_analysis,Factor Analysis,166,15,2,3,3,0,0,0,0,0,2,False,False,False,False,True,False,False
+gaussian_distribution,Gaussian Distribution,5,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+graph_theory,Graph Theory,12,6,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+grouped_plots,Grouped plots,2,13,2,1,1,1,12,1,0,0,2,True,True,False,False,True,True,False
+handling_different_distributions,Handling Different Distributions,328,31,6,3,6,0,0,0,0,0,2,False,False,False,False,True,False,False
+hypothesis_testing,Hypothesis testing,533,30,10,5,11,0,0,0,0,0,1,False,False,False,False,True,False,True
+interquartile_range_(iqr)_detection,Interquartile Range (IQR) Detection,139,20,0,0,5,0,0,0,0,0,2,False,False,False,False,True,False,True
+johnson–lindenstrauss_lemma,Johnson–Lindenstrauss lemma,124,52,7,2,0,1,54,0,0,0,1,True,False,False,False,False,False,False
+markov_chain,Markov chain,27,1,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+mathematics,Mathematics,11,4,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+mean_absolute_error,Mean Absolute Error,57,8,0,0,0,0,0,0,1,0,1,False,False,True,False,False,False,True
+mean_squared_error,Mean Squared Error,81,10,1,4,0,0,0,0,0,0,1,False,False,False,False,False,False,True
+multicollinearity,Multicollinearity,299,20,1,3,6,0,0,0,0,0,1,False,False,False,False,True,False,False
+odds_vs_probability,Odds vs Probability,92,9,0,0,0,0,0,0,8,0,2,False,False,True,False,False,False,True
+odds,Odds,70,15,2,4,3,0,0,0,0,0,1,False,False,False,False,True,False,True
+parametric_tests,Parametric tests,0,0,0,0,0,0,0,0,0,0,2,False,False,False,False,False,True,False
+prediction_intervals,Prediction Intervals,127,20,0,0,11,0,0,0,0,0,1,False,False,False,False,True,False,True
+probability,Probability,50,10,2,4,3,0,0,0,0,0,1,False,False,False,False,True,False,True
+proportion_test,Proportion Test,48,3,0,0,2,0,0,0,0,0,2,False,False,False,False,True,False,False
+q-q_plot,Q-Q Plot,173,18,1,4,5,0,0,1,0,0,2,False,True,False,False,True,False,False
+r_squared,R squared,167,15,1,4,7,0,0,0,0,0,1,False,False,False,False,True,False,True
+r-squared_metric_not_always_a_good_indicator_of_model_performance_in_regression,R-squared metric not always a good indicator of model performance in regression,274,6,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+r,R,6,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+reasoning_tokens,Reasoning tokens,151,5,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+resampling,Resampling,118,8,2,3,3,0,0,0,0,0,1,False,False,False,False,True,False,False
+root_mean_squared_error,Root Mean Squared Error,79,6,0,0,2,0,0,0,0,0,1,False,False,False,False,True,False,True
+spearman_vs_pearson_correlation,Spearman vs Pearson Correlation,286,68,10,3,7,2,36,0,0,1,2,True,False,False,True,True,False,True
+standard_deviation,Standard deviation,306,31,2,2,4,0,0,0,0,0,2,False,False,False,False,True,False,True
+standardisation,Standardisation,195,20,2,3,7,1,4,0,0,0,1,True,False,False,False,True,False,True
+statistical_assumptions,Statistical Assumptions,471,28,3,4,6,0,0,0,0,0,2,False,False,False,False,True,False,False
+statistical_tests,Statistical Tests,91,8,2,2,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+statistical_theorems,Statistical theorems,17,3,0,0,1,0,0,0,0,0,1,False,False,False,False,True,False,False
+statistics,Statistics,179,35,0,0,3,0,0,0,0,0,2,False,False,False,False,True,False,False
+stochastic_gradient_descent,Stochastic Gradient Descent,137,16,4,4,9,0,0,0,0,0,3,False,False,False,False,True,False,False
+symbolic_computation,Symbolic computation,477,27,9,3,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+sympy,Sympy,2,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+t-test,T-test,368,26,6,2,7,0,0,0,0,0,1,False,False,False,False,True,False,True
+variance,Variance,129,16,0,0,4,0,0,0,0,0,1,False,False,False,False,True,False,True
+violin_plot,Violin plot,14,6,0,0,0,1,4,0,0,0,1,True,False,False,False,False,False,False
+z-normalisation,Z-Normalisation,322,33,3,3,8,1,4,3,0,0,2,True,True,False,False,True,False,True
+z-score,Z-Score,149,27,1,3,13,0,0,0,1,0,1,False,False,True,False,True,False,True
+z-scores_vs_prediction_intervals,Z-Scores vs Prediction Intervals,134,11,0,0,0,0,0,0,16,0,1,False,False,True,False,False,False,True
+information_theory,information theory,279,9,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+z-test,Z-Test,319,21,4,2,7,0,0,0,0,0,1,False,False,False,False,True,False,True
+mean_vs_median,mean vs median,91,7,0,0,2,0,0,0,0,0,2,False,False,False,False,True,False,False
+non-parametric,non-parametric,4,1,0,0,0,0,0,0,0,0,1,False,False,False,False,False,True,False
+p_values,p values,24,3,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+parametric_vs_non-parametric_models,parametric vs non-parametric models,227,22,3,3,4,0,0,0,0,0,1,False,False,False,False,True,False,False
+parametric_vs_non-parametric_tests,parametric vs non-parametric tests,87,2,0,0,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+statsmodels,statsmodels,5,1,0,0,0,0,0,0,0,0,0,False,False,False,False,False,True,False
+parsimonious,parsimonious,191,7,1,3,0,0,0,0,0,0,2,False,False,False,False,False,False,False
+univariate_vs_multivariate,univariate vs multivariate,28,3,0,0,0,0,0,0,0,0,1,False,False,False,False,False,False,False
+granger_causality_test,Granger Causality Test,190,6,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,True
+mean_reverting,Mean reverting,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,True,False
+overview-base,Overview-Base,18,12,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False
+pgn,PGN,97,26,0,0,3,1,7,0,0,0,2,True,False,False,False,True,False,False
+time_series_shapelet,Time Series Shapelet,453,18,0,0,8,0,0,0,0,0,1,False,False,False,False,True,False,False
+time_sampling,Time sampling,3,2,0,0,0,0,0,0,0,0,0,False,False,False,False,False,True,False
+varmax,Varmax,333,57,10,3,18,1,15,0,0,0,3,True,False,False,False,True,False,True
+algebraic_chess_notation,algebraic chess notation,474,61,8,2,4,0,0,0,0,0,2,False,False,False,False,True,False,True

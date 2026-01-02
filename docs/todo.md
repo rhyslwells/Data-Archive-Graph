@@ -13,3 +13,7 @@
 - [ ] will LDA or TFIDF be useful for this?
 - [ ] New folder for each feature, build from explore folder.
 - [ ] Clean docs\features.md
+
+- [ ] docs\progress-blog-posts.md
+- [ ] docs\progress-streamlit.md
+- [ ] Finish prompting scripts\linkage.py
