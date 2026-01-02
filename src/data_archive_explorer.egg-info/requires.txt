@@ -8,6 +8,7 @@ pydot<4.0,>=3.0
 python-louvain<0.17,>=0.16
 nbformat<6.0,>=5.10
 dash-cytoscape==0.2.0
+pyvis>=0.3.2
 
 [dev]
 ipython
