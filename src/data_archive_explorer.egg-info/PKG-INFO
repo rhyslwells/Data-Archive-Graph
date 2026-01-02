@@ -1,0 +1,37 @@
+Metadata-Version: 2.4
+Name: data-archive-explorer
+Version: 0.1.0
+Summary: Graph, NLP, and structural analysis over a linked markdown knowledge archive
+Author-email: Rhys Wells <rhyslwells@outlook.com>
+Requires-Python: <3.13,>=3.12
+Description-Content-Type: text/markdown
+Requires-Dist: pandas<3.0,>=2.2
+Requires-Dist: networkx<4.0,>=3.4
+Requires-Dist: pyyaml<7.0,>=6.0
+Requires-Dist: matplotlib<4.0,>=3.10
+Requires-Dist: seaborn<0.14,>=0.13
+Requires-Dist: plotly<7.0,>=6.0
+Requires-Dist: pydot<4.0,>=3.0
+Requires-Dist: python-louvain<0.17,>=0.16
+Requires-Dist: nbformat<6.0,>=5.10
+Requires-Dist: dash-cytoscape==0.2.0
+Provides-Extra: dev
+Requires-Dist: ipython; extra == "dev"
+Requires-Dist: jupyter; extra == "dev"
+Requires-Dist: black; extra == "dev"
+Requires-Dist: ruff; extra == "dev"
+Provides-Extra: nlp-heavy
+Requires-Dist: nltk<4.0,>=3.9; extra == "nlp-heavy"
+Requires-Dist: scikit-learn<2.0,>=1.6; extra == "nlp-heavy"
+Requires-Dist: spacy<4.0,>=3.8; extra == "nlp-heavy"
+Requires-Dist: wordcloud<2.0,>=1.9; extra == "nlp-heavy"
+
+This project aims to use a local Graph RAG setup with an LLM over the Data Archive to generate related questions.
+
+Part 1: Initial graph investigation using metadata. See the `explorations` folder.
+
+Part 2: LLM interaction with notes.
+
+# Notes
+
+steamlit application .

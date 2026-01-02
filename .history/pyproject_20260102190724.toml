@@ -12,12 +12,24 @@ authors = [
 dependencies = [
     "pandas>=2.2,<3.0",
     "networkx>=3.4,<4.0",
+
+    # Parsing / structure
     "pyyaml>=6.0,<7.0",
+
+    # NLP / ML
+    "nltk>=3.9,<4.0",
+    "scikit-learn>=1.6,<2.0",
+    "sentence-transformers>=4.1,<5.0",
+    "faiss-cpu>=1.10,<2.0",
+
+    # Graph + visualisation
     "matplotlib>=3.10,<4.0",
-        "seaborn>=0.13,<0.14",
+    "seaborn>=0.13,<0.14",
     "plotly>=6.0,<7.0",
     "pydot>=3.0,<4.0",
     "python-louvain>=0.16,<0.17",
+
+    # App / notebooks
     "nbformat>=5.10,<6.0",
     "dash-cytoscape==0.2.0",
 ]
@@ -30,10 +42,7 @@ dev = [
     "ruff",
 ]
 
-# heavier NLP / ML packages to add later
 nlp-heavy = [
-    "nltk>=3.9,<4.0",
-    "scikit-learn>=1.6,<2.0",
     "spacy>=3.8,<4.0",
     "wordcloud>=1.9,<2.0",
 ]
@@ -41,6 +50,6 @@ nlp-heavy = [
 [build-system]
 requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
-
 [tool.setuptools.packages.find]
 where = ["src"]
+

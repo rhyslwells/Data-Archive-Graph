@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+src/data_archive_explorer.egg-info/PKG-INFO
+src/data_archive_explorer.egg-info/SOURCES.txt
+src/data_archive_explorer.egg-info/dependency_links.txt
+src/data_archive_explorer.egg-info/requires.txt
+src/data_archive_explorer.egg-info/top_level.txt
